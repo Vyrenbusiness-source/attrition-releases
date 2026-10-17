@@ -13,13 +13,19 @@
 
 A realistic voxel war shooter. Four factions fight over a destructible world, commanded by AI that plans, flanks and adapts. You fight as one soldier among hundreds, on foot, in vehicles, in the air, or through a drone feed.
 
-![Sunset over the meadow](images/screenshot-sunset.jpg)
+![Tank in the street](images/tank-street.jpg)
 
 ## About
 
 ATTRITION is a free, single-player and co-op shooter built on a fully destructible voxel world. Every wall, floor and bridge can be broken, and the battlefield changes with every shell.
 
 You join the war as a rifleman, level up through 50 ranks, unlock gear, and take on larger roles: drone operator, vehicle crew, pilot. The enemy does not stand still and wait. AI squads use cover, suppress, flank and call for support.
+
+## Built on Real Data
+
+Realism is the core of ATTRITION. Every projectile flies with real ballistics – muzzle velocity, drag, drop and penetration taken from published data for each cartridge. Weapons use manufacturer specifications (rate of fire, weight, magazine, sights), and vehicles and blast effects follow published military and scientific sources. The effect of suppressive fire is based on research into how bullet energy and the supersonic crack affect soldiers. AI squads fight by real infantry doctrine: fire and movement, flanking, room clearing, ambushes and counter-attacks – and they only know what they can see or hear.
+
+![Drone strike](images/drone-strike.jpg)
 
 ## Key Features
 
@@ -29,13 +35,13 @@ You join the war as a rifleman, level up through 50 ranks, unlock gear, and take
 - **Drones.** Scout, strike and FPV drones, and jammers against them.
 - **Vehicles and aircraft.** Drive tanks and trucks, fly helicopters, share seats with friends.
 
-![City street](images/screenshot-city.jpg)
+![Ambush on a tank](images/tank-ambush.jpg)
 
 - **Co-op.** Play the war together with friends.
 - **Progression.** 50 player levels with unlocks and a loadout menu.
 - **Weather and time of day.** Sun, rain, fog and night change how fights play out.
 
-![Forest edge](images/screenshot-forest.jpg)
+![Direct hit on a house](images/house-hit.jpg)
 
 ## Game Modes
 
@@ -47,7 +53,7 @@ You join the war as a rifleman, level up through 50 ranks, unlock gear, and take
 
 Eisenbund (heavy industry), Freie Grenzer (guerrilla), Nordwacht (defense) and Kupferkartell (technology and air).
 
-![Dusk in the city](images/screenshot-dusk-city.jpg)
+![Block held](images/block-held.jpg)
 
 ## Content
 
@@ -63,7 +69,8 @@ Eisenbund (heavy industry), Freie Grenzer (guerrilla), Nordwacht (defense) and K
 
 - Windows 10 or 11, 64-bit
 - A graphics card with Vulkan or DirectX 12 support
-- Exact minimum hardware figures will be added after more testing
+- **Recommended (tested):** AMD Ryzen 7 7800X3D, NVIDIA GeForce RTX 5070, 32 GB RAM – targets 144 fps on Ultra
+- Lower-end PCs: use the Medium/Low quality presets
 
 ## Controls
 
@@ -104,13 +111,21 @@ Built with the [Godot Engine](https://godotengine.org). Weapon sounds from CC0, 
 
 Ein realistischer Voxel-Kriegs-Shooter. Vier Fraktionen kämpfen um eine zerstörbare Welt, geführt von einer KI, die plant, umgeht und sich anpasst. Du kämpfst als ein Soldat unter Hunderten, zu Fuß, im Fahrzeug, in der Luft oder über eine Drohnenkamera.
 
-![Sonnenuntergang über der Wiese](images/screenshot-meadow.jpg)
+![Panzer in der Straße](images/tank-street.jpg)
+
+![Hinterhalt auf einen Panzer](images/tank-ambush.jpg)
 
 ## Über das Spiel
 
 ATTRITION ist ein kostenloser Shooter für Einzelspieler und Koop auf einer vollständig zerstörbaren Voxel-Welt. Jede Wand, jeder Boden und jede Brücke lässt sich zerstören, und das Schlachtfeld verändert sich mit jeder Granate.
 
 Du beginnst als Schütze, steigst durch 50 Stufen auf, schaltest Ausrüstung frei und übernimmst größere Rollen: Drohnenführer, Fahrzeugbesatzung, Pilot. Der Gegner wartet nicht auf dich. KI-Trupps nutzen Deckung, unterdrücken, umgehen und rufen Unterstützung.
+
+## Auf echten Daten gebaut
+
+Realismus ist der Kern von ATTRITION. Jedes Projektil fliegt mit echter Ballistik – Mündungsgeschwindigkeit, Luftwiderstand, Geschossabfall und Durchschlag nach veröffentlichten Daten der jeweiligen Patrone. Waffen nutzen Herstellerangaben (Kadenz, Gewicht, Magazin, Visiere), Fahrzeuge und Sprengwirkung folgen veröffentlichten militärischen und wissenschaftlichen Quellen. Die Wirkung von Niederhaltefeuer beruht auf Studien dazu, wie Geschossenergie und Überschallknall auf Soldaten wirken. KI-Trupps kämpfen nach echter Infanterie-Doktrin: Feuer und Bewegung, Umfassen, Häuserkampf, Hinterhalte und Gegenstöße – und sie wissen nur, was sie sehen oder hören.
+
+![Block gehalten](images/block-held.jpg)
 
 ## Hauptmerkmale
 
@@ -147,7 +162,8 @@ Eisenbund (Schwerindustrie), Freie Grenzer (Guerilla), Nordwacht (Verteidigung) 
 
 - Windows 10 oder 11, 64-Bit
 - Grafikkarte mit Vulkan- oder DirectX-12-Unterstützung
-- Genaue Mindestanforderungen folgen nach weiteren Tests
+- **Empfohlen (getestet):** AMD Ryzen 7 7800X3D, NVIDIA GeForce RTX 5070, 32 GB RAM – Ziel 144 fps auf Ultra
+- Schwächere PCs: Qualitätsstufen Mittel/Niedrig nutzen
 
 ## Steuerung
 
