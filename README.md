@@ -1,11 +1,11 @@
-![ATTRITION](images/title.jpg)
+<p align="center"><img src="images/title.jpg" width="100%" alt="ATTRITION"></p>
 
 [![Latest release](https://img.shields.io/github/v/release/Vyrenbusiness-source/attrition-releases?style=for-the-badge)](https://github.com/Vyrenbusiness-source/attrition-releases/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/Vyrenbusiness-source/attrition-releases/total?style=for-the-badge)](https://github.com/Vyrenbusiness-source/attrition-releases/releases)
 ![Platform: Windows](https://img.shields.io/badge/platform-Windows-0078D6?style=for-the-badge)
 ![Made with Godot 4](https://img.shields.io/badge/made%20with-Godot%204-478CBF?style=for-the-badge)
 
-# [>> DOWNLOAD ATTRITION (free, Windows) <<](https://github.com/Vyrenbusiness-source/attrition-releases/releases/latest)
+<p align="center"><a href="https://github.com/Vyrenbusiness-source/attrition-releases/releases/latest"><img src="https://img.shields.io/badge/Download%20ATTRITION-free%20for%20Windows-2ea44f?style=for-the-badge&logo=windows&logoColor=white" height="48" alt="Download"></a></p>
 
 <p align="center"><a href="https://www.youtube.com/watch?v=Mkiqu9hALas"><img src="https://img.youtube.com/vi/Mkiqu9hALas/maxresdefault.jpg" width="800" alt="Watch the ATTRITION trailer on YouTube"></a><br><b><a href="https://www.youtube.com/watch?v=Mkiqu9hALas">▶ Watch the trailer / Trailer ansehen</a></b></p>
 
@@ -109,9 +109,9 @@ Built with the [Godot Engine](https://godotengine.org). Weapon sounds from CC0, 
 
 <a id="deutsch"></a>
 
-![ATTRITION](images/title.jpg)
+<p align="center"><img src="images/title.jpg" width="100%" alt="ATTRITION"></p>
 
-# [>> ATTRITION HERUNTERLADEN (kostenlos, Windows) <<](https://github.com/Vyrenbusiness-source/attrition-releases/releases/latest)
+<p align="center"><a href="https://github.com/Vyrenbusiness-source/attrition-releases/releases/latest"><img src="https://img.shields.io/badge/ATTRITION%20herunterladen-kostenlos%20f%C3%BCr%20Windows-2ea44f?style=for-the-badge&logo=windows&logoColor=white" height="48" alt="Download"></a></p>
 
 [English](#attrition) | **Deutsch**
 
