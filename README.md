@@ -15,15 +15,15 @@
 
 ## ATTRITION
 
-A realistic voxel war shooter. Four factions fight over a destructible world, commanded by AI that plans, flanks and adapts. You fight as one soldier among hundreds, on foot, in vehicles, in the air, or through a drone feed.
+**Free realistic war game for Windows – a tactical FPS / military shooter in a fully destructible voxel world.** You are one soldier in a war that keeps going without you. Hundreds of AI soldiers, tanks and drones fight across towns and fields, and one bad step into the open can end your run.
 
 ![Tank in the street](images/tank-street.jpg)
 
 ## About
 
-ATTRITION is a free, single-player and co-op shooter built on a fully destructible voxel world. Every wall, floor and bridge can be broken, and the battlefield changes with every shell.
+Walls come down. Houses burn. A tank turns the corner and the street you were holding is gone. ATTRITION is a free singleplayer and co-op war shooter where the map changes with every shell, every grenade and every drone strike.
 
-You join the war as a rifleman, level up through 50 ranks, unlock gear, and take on larger roles: drone operator, vehicle crew, pilot. The enemy does not stand still and wait. AI squads use cover, suppress, flank and call for support.
+You start as a rifleman with a few magazines. Over 50 ranks you unlock new rifles, optics, drones and vehicles. The enemy does not wait for you: squads pin you down, move around your flank, throw a grenade through the window and wait in ambush when you chase them.
 
 ## Built on Real Data
 
@@ -117,7 +117,7 @@ Built with the [Godot Engine](https://godotengine.org). Weapon sounds from CC0, 
 
 ## ATTRITION
 
-Ein realistischer Voxel-Kriegs-Shooter. Vier Fraktionen kämpfen um eine zerstörbare Welt, geführt von einer KI, die plant, umgeht und sich anpasst. Du kämpfst als ein Soldat unter Hunderten, zu Fuß, im Fahrzeug, in der Luft oder über eine Drohnenkamera.
+**Kostenloses, realistisches Kriegsspiel für Windows – ein taktischer Shooter in einer komplett zerstörbaren Voxel-Welt.** Du bist ein Soldat in einem Krieg, der auch ohne dich weiterläuft. Hunderte KI-Soldaten, Panzer und Drohnen kämpfen um Dörfer und Städte, und ein falscher Schritt ins Freie kann das Ende sein.
 
 ![Panzer in der Straße](images/tank-street.jpg)
 
@@ -129,9 +129,9 @@ Ein realistischer Voxel-Kriegs-Shooter. Vier Fraktionen kämpfen um eine zerstö
 
 ## Über das Spiel
 
-ATTRITION ist ein kostenloser Shooter für Einzelspieler und Koop auf einer vollständig zerstörbaren Voxel-Welt. Jede Wand, jeder Boden und jede Brücke lässt sich zerstören, und das Schlachtfeld verändert sich mit jeder Granate.
+Wände stürzen ein, Häuser brennen, ein Panzer biegt um die Ecke – und die Straße, die du gehalten hast, gibt es nicht mehr. ATTRITION ist ein kostenloser Kriegsshooter für Einzelspieler und Koop, in dem sich die Karte mit jeder Granate und jedem Drohnenangriff verändert.
 
-Du beginnst als Schütze, steigst durch 50 Stufen auf, schaltest Ausrüstung frei und übernimmst größere Rollen: Drohnenführer, Fahrzeugbesatzung, Pilot. Der Gegner wartet nicht auf dich. KI-Trupps nutzen Deckung, unterdrücken, umgehen und rufen Unterstützung.
+Du startest als Schütze mit ein paar Magazinen. Über 50 Stufen schaltest du neue Gewehre, Optiken, Drohnen und Fahrzeuge frei. Der Gegner wartet nicht: Trupps halten dich nieder, umgehen dich, werfen eine Granate durchs Fenster und lauern dir auf, wenn du nachsetzt.
 
 ## Auf echten Daten gebaut
 
@@ -201,3 +201,6 @@ ATTRITION aktualisiert sich selbst. Neue Versionen werden von dieser Seite gelad
 ## Danksagung
 
 Gebaut mit der [Godot Engine](https://godotengine.org). Waffenklänge aus CC0-, CC-BY- und gemeinfreien Aufnahmen; die einzelnen Nachweise stehen im Spiel.
+
+---
+<sub>Keywords: free war game, realistic shooter, tactical FPS, military simulation, voxel shooter, destructible environment, Godot 4 game, drone warfare, tank combat, co-op shooter, indie game, Windows · kostenloses Kriegsspiel, realistischer Shooter, Taktik-Shooter</sub>
