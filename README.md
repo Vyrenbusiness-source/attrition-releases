@@ -9,6 +9,8 @@
 
 **English** | [Deutsch](#deutsch)
 
+> **Language:** The game is currently in German. Menus and HUD are simple and easy to follow without German. **English translation coming soon.**
+
 ## ATTRITION
 
 A realistic voxel war shooter. Four factions fight over a destructible world, commanded by AI that plans, flanks and adapts. You fight as one soldier among hundreds, on foot, in vehicles, in the air, or through a drone feed.
@@ -35,6 +37,8 @@ Realism is the core of ATTRITION. Every projectile flies with real ballistics �
 - **Drones.** Scout, strike and FPV drones, and jammers against them.
 - **Vehicles and aircraft.** Drive tanks and trucks, fly helicopters, share seats with friends.
 
+![FPV drone at dusk](images/fpv-drone.jpg)
+
 ![Ambush on a tank](images/tank-ambush.jpg)
 
 - **Co-op.** Play the war together with friends.
@@ -42,6 +46,8 @@ Realism is the core of ATTRITION. Every projectile flies with real ballistics �
 - **Weather and time of day.** Sun, rain, fog and night change how fights play out.
 
 ![Direct hit on a house](images/house-hit.jpg)
+
+![Anti-air vehicle on patrol](images/anti-air.jpg)
 
 ## Game Modes
 
@@ -114,6 +120,10 @@ Ein realistischer Voxel-Kriegs-Shooter. Vier Fraktionen kämpfen um eine zerstö
 ![Panzer in der Straße](images/tank-street.jpg)
 
 ![Hinterhalt auf einen Panzer](images/tank-ambush.jpg)
+
+> **Sprache:** Das Spiel ist derzeit auf Deutsch. Englische Übersetzung folgt bald.
+
+![FPV-Drohne in der Dämmerung](images/fpv-drone.jpg)
 
 ## Über das Spiel
 
