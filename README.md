@@ -7,6 +7,8 @@
 
 # [>> DOWNLOAD ATTRITION (free, Windows) <<](https://github.com/Vyrenbusiness-source/attrition-releases/releases/latest)
 
+<p align="center"><a href="https://www.youtube.com/watch?v=Mkiqu9hALas"><img src="https://img.youtube.com/vi/Mkiqu9hALas/maxresdefault.jpg" width="800" alt="Watch the ATTRITION trailer on YouTube"></a><br><b><a href="https://www.youtube.com/watch?v=Mkiqu9hALas">▶ Watch the trailer / Trailer ansehen</a></b></p>
+
 **English** | [Deutsch](#deutsch)
 
 > **Language:** The game is currently in German. Menus and HUD are simple and easy to follow without German. **English translation coming soon.**
