@@ -144,6 +144,7 @@ Updated automatically from the [releases](https://github.com/Vyrenbusiness-sourc
 <!-- updates:en:start -->
 | Version | Date | What changed |
 |---|---|---|
+| [**1.0.167**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.167) | Oct 23, 2026 | Echte Magazintypen: G36 nimmt nur G36-Magazine, HK416/M249 STANAG, AK-74M/RPK/AK-12 AK-5,45-Magazine usw. – Name zeigt den Typ, „passt nicht – G36-Magazin nötig“ statt stillem Nichtladen; alte Magazine im Spind werden … |
 | [**1.0.166**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.166) | Oct 23, 2026 | Ferne Schüsse wieder auf dem lauteren, gemessenen Pegel |
 | [**1.0.165**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.165) | Oct 23, 2026 | Schüsse wuchtiger: ferne Schüsse 200–1200 m rund 10–12 dB lauter mit mehr Körper und Knall (realistische Luftdämpfung statt Höhen-Wegfiltern), nahe Schüsse kräftiger, Limiter drückt den Knall nicht mehr platt |
 | [**1.0.164**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.164) | Oct 23, 2026 | Updates schneller und zuverlässiger: keine 30-Sekunden-Grenze mehr für große Dateien (brach auf langsameren Leitungen ab), größere Download-Blöcke |
@@ -151,7 +152,6 @@ Updated automatically from the [releases](https://github.com/Vyrenbusiness-sourc
 | [**1.0.162**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.162) | Oct 23, 2026 | Niedergestreckte Gegner gleiten nicht mehr und lassen sich mit einem Endstoß erledigen (Trefferzonen folgen dem liegenden Körper, Kopftreffer im Liegen tödlich); Kriechen mit echter Arm-/Beinbewegung |
 | [**1.0.161**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.161) | Oct 23, 2026 | Bäume: volle Modelle bis 200 m (vorher 20 m), keine Würfel mehr in normaler Sichtweite; Nachladen: HUD sagt klar, warum R nicht lädt (Magazin im Rucksack/passt nicht/leer), gefüllte Magazine wandern aus dem Rucksack in … |
 | [**1.0.160**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.160) | Oct 23, 2026 | Ego-Hände an Pistolen: Finger liegen am Griff statt in der Waffe, Stützhand umgreift die Schusshand (Daumen-vorn-Griff) |
-| [**1.0.159**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.159) | Oct 23, 2026 | Werkbank neu: drei Spalten, nur besessene Aufsätze, alle Werte mit Vorher/Nachher, Linien kreuzen sich nicht mehr; Patronenarten zeigen ihre Unterschiede (Platten-Durchschlag, Schaden, Geschwindigkeit, Hörweite … |
 <!-- updates:en:end -->
 
 ## Credits and licenses
@@ -202,6 +202,7 @@ Wird automatisch aus den [Veröffentlichungen](https://github.com/Vyrenbusiness-
 <!-- updates:de:start -->
 | Version | Datum | Was ist neu |
 |---|---|---|
+| [**1.0.167**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.167) | 23.10.2026 | Echte Magazintypen: G36 nimmt nur G36-Magazine, HK416/M249 STANAG, AK-74M/RPK/AK-12 AK-5,45-Magazine usw. – Name zeigt den Typ, „passt nicht – G36-Magazin nötig“ statt stillem Nichtladen; alte Magazine im Spind werden … |
 | [**1.0.166**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.166) | 23.10.2026 | Ferne Schüsse wieder auf dem lauteren, gemessenen Pegel |
 | [**1.0.165**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.165) | 23.10.2026 | Schüsse wuchtiger: ferne Schüsse 200–1200 m rund 10–12 dB lauter mit mehr Körper und Knall (realistische Luftdämpfung statt Höhen-Wegfiltern), nahe Schüsse kräftiger, Limiter drückt den Knall nicht mehr platt |
 | [**1.0.164**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.164) | 23.10.2026 | Updates schneller und zuverlässiger: keine 30-Sekunden-Grenze mehr für große Dateien (brach auf langsameren Leitungen ab), größere Download-Blöcke |
@@ -209,7 +210,6 @@ Wird automatisch aus den [Veröffentlichungen](https://github.com/Vyrenbusiness-
 | [**1.0.162**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.162) | 23.10.2026 | Niedergestreckte Gegner gleiten nicht mehr und lassen sich mit einem Endstoß erledigen (Trefferzonen folgen dem liegenden Körper, Kopftreffer im Liegen tödlich); Kriechen mit echter Arm-/Beinbewegung |
 | [**1.0.161**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.161) | 23.10.2026 | Bäume: volle Modelle bis 200 m (vorher 20 m), keine Würfel mehr in normaler Sichtweite; Nachladen: HUD sagt klar, warum R nicht lädt (Magazin im Rucksack/passt nicht/leer), gefüllte Magazine wandern aus dem Rucksack in … |
 | [**1.0.160**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.160) | 23.10.2026 | Ego-Hände an Pistolen: Finger liegen am Griff statt in der Waffe, Stützhand umgreift die Schusshand (Daumen-vorn-Griff) |
-| [**1.0.159**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.159) | 23.10.2026 | Werkbank neu: drei Spalten, nur besessene Aufsätze, alle Werte mit Vorher/Nachher, Linien kreuzen sich nicht mehr; Patronenarten zeigen ihre Unterschiede (Platten-Durchschlag, Schaden, Geschwindigkeit, Hörweite … |
 <!-- updates:de:end -->
 
 ## Mitwirkende und Lizenzen
