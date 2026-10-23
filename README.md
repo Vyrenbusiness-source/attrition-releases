@@ -128,6 +128,7 @@ Updated automatically from the [releases](https://github.com/Vyrenbusiness-sourc
 <!-- updates:en:start -->
 | Version | Date | What changed |
 |---|---|---|
+| [**1.0.149**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.149) | Oct 23, 2026 | HUD aufgeräumt: Kompassmarken überlappen das Zielbanner nicht mehr, scharfe Teilziel-Plakette statt Symbolsalat, Weltmarker bleiben im Bild, Fahrzeugschilder nicht mehr durch Wände, HUD bei offenen Menüs ausgeblendet … |
 | [**1.0.148**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.148) | Oct 23, 2026 | Bäume: kein Verschwinden und Aufploppen mehr beim Laufen, keine Stämme mehr über Mauern/Garagen/Zäunen, rundere und dichtere Kronen. Kartenversion 11, Koop-Protokoll 57 |
 | [**1.0.147**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.147) | Oct 23, 2026 | Hänge ohne Springen: auf der echten Karte 0 Hänger an natürlichen Hängen (vorher 21–32 je Karte), Mauern und Gebäudestufen bleiben ein Sprung; Sägezahn-Kanten an Felsgraten und Hangfüßen beseitigt; weniger … |
 | [**1.0.146**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.146) | Oct 23, 2026 | Dorf als echte Modelle (Rund-, Silo- und Kleinballen statt Sandblöcken, Grabsteine und Kreuze mit Grabbeet, Latten-, Koppel- und Geländerzäune, Bänke); Ziehen und Ablegen wie Tarkov: grün/rot-Vorschau überall … |
@@ -135,7 +136,6 @@ Updated automatically from the [releases](https://github.com/Vyrenbusiness-sourc
 | [**1.0.144**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.144) | Oct 23, 2026 | Spawn-Screen neu geordnet: Einsetzen-Knopf in jeder Auflösung und jedem Zustand sichtbar (auch nach dem Tod mit vielen Kameraden), nichts mehr abgeschnitten, Karte zeigt sofort das echte Kartenbild, Ziehen mit linker … |
 | [**1.0.143**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.143) | Oct 23, 2026 | Türen und Eingänge frei: Wäscheleinen, Container, Mülltonnen, Bushaltestellen, Schuppen, Schutt und Baustellen stehen nicht mehr vor Haus-, Hof- und Ladentüren (vorher 300–430 blockierte Eingänge je Karte). … |
 | [**1.0.142**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.142) | Oct 23, 2026 | Gelände: keine Durchsicht mehr durch den Waldboden und um Baumwurzeln (weiße Löcher behoben), Hänge besser begehbar (Stufenhilfe an natürlichem Boden, Mauern bleiben unbegehbar), Waffe nickt nach dem Aufstehen nicht mehr |
-| [**1.0.141**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.141) | Oct 22, 2026 | Werkbank im Spind: Aufsätze per Ziehen an die Waffe bauen (3D-Vorschau, Vorher/Nachher-Balken), Gerät, Drohne und Tarnanzug wieder wählbar (Spind-Plätze, T im Spawn-Screen), Ausrüstungssätze speichern alles mit … |
 <!-- updates:en:end -->
 
 ## Credits and licenses
@@ -250,6 +250,7 @@ Wird automatisch aus den [Veröffentlichungen](https://github.com/Vyrenbusiness-
 <!-- updates:de:start -->
 | Version | Datum | Was ist neu |
 |---|---|---|
+| [**1.0.149**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.149) | 23.10.2026 | HUD aufgeräumt: Kompassmarken überlappen das Zielbanner nicht mehr, scharfe Teilziel-Plakette statt Symbolsalat, Weltmarker bleiben im Bild, Fahrzeugschilder nicht mehr durch Wände, HUD bei offenen Menüs ausgeblendet … |
 | [**1.0.148**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.148) | 23.10.2026 | Bäume: kein Verschwinden und Aufploppen mehr beim Laufen, keine Stämme mehr über Mauern/Garagen/Zäunen, rundere und dichtere Kronen. Kartenversion 11, Koop-Protokoll 57 |
 | [**1.0.147**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.147) | 23.10.2026 | Hänge ohne Springen: auf der echten Karte 0 Hänger an natürlichen Hängen (vorher 21–32 je Karte), Mauern und Gebäudestufen bleiben ein Sprung; Sägezahn-Kanten an Felsgraten und Hangfüßen beseitigt; weniger … |
 | [**1.0.146**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.146) | 23.10.2026 | Dorf als echte Modelle (Rund-, Silo- und Kleinballen statt Sandblöcken, Grabsteine und Kreuze mit Grabbeet, Latten-, Koppel- und Geländerzäune, Bänke); Ziehen und Ablegen wie Tarkov: grün/rot-Vorschau überall … |
@@ -257,7 +258,6 @@ Wird automatisch aus den [Veröffentlichungen](https://github.com/Vyrenbusiness-
 | [**1.0.144**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.144) | 23.10.2026 | Spawn-Screen neu geordnet: Einsetzen-Knopf in jeder Auflösung und jedem Zustand sichtbar (auch nach dem Tod mit vielen Kameraden), nichts mehr abgeschnitten, Karte zeigt sofort das echte Kartenbild, Ziehen mit linker … |
 | [**1.0.143**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.143) | 23.10.2026 | Türen und Eingänge frei: Wäscheleinen, Container, Mülltonnen, Bushaltestellen, Schuppen, Schutt und Baustellen stehen nicht mehr vor Haus-, Hof- und Ladentüren (vorher 300–430 blockierte Eingänge je Karte). … |
 | [**1.0.142**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.142) | 23.10.2026 | Gelände: keine Durchsicht mehr durch den Waldboden und um Baumwurzeln (weiße Löcher behoben), Hänge besser begehbar (Stufenhilfe an natürlichem Boden, Mauern bleiben unbegehbar), Waffe nickt nach dem Aufstehen nicht mehr |
-| [**1.0.141**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.141) | 22.10.2026 | Werkbank im Spind: Aufsätze per Ziehen an die Waffe bauen (3D-Vorschau, Vorher/Nachher-Balken), Gerät, Drohne und Tarnanzug wieder wählbar (Spind-Plätze, T im Spawn-Screen), Ausrüstungssätze speichern alles mit … |
 <!-- updates:de:end -->
 
 ## Mitwirkende und Lizenzen
