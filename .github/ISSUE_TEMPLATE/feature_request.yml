@@ -1,0 +1,53 @@
+name: Feature request
+description: Suggest an idea or an improvement for the game.
+title: "[Idea] "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Ideas are welcome. Please describe the situation in the game where you missed something, not only the solution.
+  - type: dropdown
+    id: mode
+    attributes:
+      label: Mode
+      description: Where would this matter most?
+      multiple: true
+      options:
+        - Match (single player)
+        - Co-op
+        - PvP
+        - Traders / inventory / workbench
+        - Menus and settings
+        - All modes
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What is missing or frustrating?
+      placeholder: When I'm reloading behind cover I can't tell how many rounds are left in the magazine.
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would you like to happen?
+      placeholder: A short weight check when I hold R, like a real soldier would do.
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives you considered
+  - type: textarea
+    id: media
+    attributes:
+      label: Screenshot, sketch or reference
+      description: Optional. Images or links to other games that do it well.
+  - type: input
+    id: version
+    attributes:
+      label: Game version
+      description: Shown in the main menu.
+      placeholder: "1.0.159"

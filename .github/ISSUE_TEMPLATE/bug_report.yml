@@ -1,0 +1,92 @@
+name: Bug report
+description: Something in the game is broken, crashes or looks wrong.
+title: "[Bug] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to report this. Please check the [existing issues](https://github.com/Vyrenbusiness-source/attrition-releases/issues) first.
+        One problem per report helps us fix it faster.
+  - type: input
+    id: version
+    attributes:
+      label: Game version
+      description: Shown in the main menu.
+      placeholder: "1.0.159"
+    validations:
+      required: true
+  - type: dropdown
+    id: mode
+    attributes:
+      label: Mode
+      options:
+        - Match (single player)
+        - Co-op (host)
+        - Co-op (client)
+        - PvP
+        - Main menu / trader / inventory
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: What did you do, in order, right before it happened?
+      placeholder: |
+        1. Start a match on the city map
+        2. Enter the building at the freight yard
+        3. Climb the stairs to the second floor
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+      placeholder: The player walks up the stairs.
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual behavior
+      placeholder: The player gets stuck on the third step.
+    validations:
+      required: true
+  - type: dropdown
+    id: frequency
+    attributes:
+      label: How often does it happen?
+      options:
+        - Every time
+        - Often
+        - Sometimes
+        - Happened once
+  - type: input
+    id: graphics
+    attributes:
+      label: Graphics and resolution
+      description: Quality preset, resolution, window mode, and your GPU if you know it.
+      placeholder: "Ultra, 2560x1440, fullscreen, RTX 4070"
+  - type: textarea
+    id: media
+    attributes:
+      label: Screenshot or clip
+      description: Drag images or a short video in here, if the problem is visible.
+  - type: textarea
+    id: log
+    attributes:
+      label: Log file
+      description: |
+        Logs are in `%APPDATA%\Godot\app_userdata\ATTRITION\logs` (paste that into the Explorer address bar).
+        Attach the newest `.log` file, or the one from the session that crashed.
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checklist
+      options:
+        - label: I am on the latest version.
+          required: true
+        - label: I searched the existing issues.
+          required: true

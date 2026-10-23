@@ -1,24 +1,26 @@
-<p align="center"><img src="media/hero.jpg" width="100%" alt="ATTRITION – soldier on a rooftop over a burning city at night"></p>
-
 <h1 align="center">ATTRITION</h1>
 
-<p align="center"><b>Hardcore war shooter in a destructible voxel world. Free for Windows.</b></p>
+<p align="center"><b>A free hardcore tactical FPS for Windows: take your own gear into a destructible voxel city, fight AI squads alone or in co-op, and lose it all if you don't make it back.</b></p>
+
+<p align="center"><a href="https://github.com/Vyrenbusiness-source/attrition-releases/releases/latest"><img src="https://img.shields.io/badge/Download%20free-Windows%2010%20%2F%2011-2ea44f?style=for-the-badge&logo=windows&logoColor=white" height="52" alt="Download ATTRITION for free"></a></p>
 
 <p align="center">
-<a href="https://github.com/Vyrenbusiness-source/attrition-releases/releases/latest"><img src="https://img.shields.io/github/v/release/Vyrenbusiness-source/attrition-releases?label=latest%20version&style=flat-square&color=e8a33d" alt="Latest version"></a>
+<a href="https://github.com/Vyrenbusiness-source/attrition-releases/releases/latest"><img src="https://img.shields.io/github/v/release/Vyrenbusiness-source/attrition-releases?label=version&style=flat-square&color=e8a33d" alt="Latest version"></a>
+<a href="https://github.com/Vyrenbusiness-source/attrition-releases/releases"><img src="https://img.shields.io/github/downloads/Vyrenbusiness-source/attrition-releases/total?label=downloads&style=flat-square" alt="Total downloads"></a>
 <a href="https://github.com/Vyrenbusiness-source/attrition-releases/releases/latest"><img src="https://img.shields.io/github/release-date/Vyrenbusiness-source/attrition-releases?label=released&style=flat-square" alt="Release date"></a>
-<a href="https://github.com/Vyrenbusiness-source/attrition-releases/releases"><img src="https://img.shields.io/github/downloads/Vyrenbusiness-source/attrition-releases/total?style=flat-square" alt="Downloads"></a>
-<img src="https://img.shields.io/badge/platform-Windows%2010%20%2F%2011-0078D6?style=flat-square" alt="Windows 10 / 11">
+<img src="https://img.shields.io/badge/status-alpha-d9534f?style=flat-square" alt="Status: alpha">
+<a href="LICENSE"><img src="https://img.shields.io/badge/license-free%20to%20play%20%26%20share-555?style=flat-square" alt="License: free to play and share"></a>
 <img src="https://img.shields.io/badge/engine-Godot%204-478CBF?style=flat-square" alt="Godot 4">
 </p>
 
-<p align="center"><a href="https://github.com/Vyrenbusiness-source/attrition-releases/releases/latest"><img src="https://img.shields.io/badge/Download-free%20for%20Windows-2ea44f?style=for-the-badge&logo=windows&logoColor=white" height="44" alt="Download ATTRITION"></a></p>
+<p align="center"><a href="https://www.youtube.com/watch?v=Mkiqu9hALas"><img src="https://img.youtube.com/vi/Mkiqu9hALas/maxresdefault.jpg" width="100%" alt="Watch the ATTRITION trailer on YouTube"></a><br><sub>▶ <a href="https://www.youtube.com/watch?v=Mkiqu9hALas">Watch the trailer on YouTube</a></sub></p>
 
-<p align="center"><a href="#english">English</a> · <a href="#deutsch">Deutsch</a> · <a href="#latest-updates">Latest updates</a> · <a href="#neueste-updates">Neueste Updates</a></p>
+<p align="center"><a href="#english">English</a> · <a href="#deutsch">Deutsch</a> · <a href="#latest-updates">Latest updates</a> · <a href="#neueste-updates">Neueste Updates</a> · <a href="CONTRIBUTING.md">Report a bug</a></p>
 
-> [!NOTE]
+> [!IMPORTANT]
+> **Early alpha – expect bugs and frequent updates.** New versions often ship several times a day, and the game installs them by itself.
+>
 > **Language:** the game is in German for now. An English version is on the way. Menus and the HUD are short and work fine without German.
-> **Sprache:** Das Spiel ist derzeit auf Deutsch, eine englische Fassung folgt.
 
 ---
 
@@ -30,7 +32,7 @@ You are one soldier in a war that keeps going without you. Four factions fight o
 
 What you take into a fight is yours to lose. You draw a free standard kit, or you go in with gear you bought or looted. If you die, it stays on your body, and whoever gets there first can take it. If you make it back, you keep everything and get paid for what you did out there.
 
-<p align="center"><a href="https://www.youtube.com/watch?v=Mkiqu9hALas"><img src="https://img.youtube.com/vi/Mkiqu9hALas/maxresdefault.jpg" width="720" alt="Watch the ATTRITION trailer on YouTube"></a><br><sub>▶ <a href="https://www.youtube.com/watch?v=Mkiqu9hALas">Watch the trailer on YouTube</a></sub></p>
+<p align="center"><img src="media/hero.jpg" width="100%" alt="ATTRITION – soldier on a rooftop over a burning city at night"></p>
 
 ## Features
 
@@ -55,6 +57,20 @@ What you take into a fight is yours to lose. You draw a free standard kit, or yo
 <td colspan="2" valign="top"><img src="media/freight-yard.jpg" alt="Freight yard with wagons and containers"><br><b>Field promotion</b><br>Points from a round promote you up to lieutenant. Each rank adds call-ins such as mortar fire, a recon drone, a smoke screen, a transport helicopter, artillery or a single guided round. Dying costs you one rank.</td>
 </tr>
 </table>
+
+## Simulated like the real thing
+
+ATTRITION models the things that decide real firefights instead of hit points and health bars:
+
+* **Wound ballistics.** Damage depends on caliber class and hit zone. One or two rifle hits to the torso usually take you out of the fight, a head hit kills with any caliber. Wounds cause blood loss, shock, fractures and chest wounds.
+* **Field medicine after TCCC.** Each injury needs its own fix (tourniquet, pressure bandage, combat gauze, chest seal, splint, morphine, IV), and each treatment takes time while the fight goes on.
+* **Armor plates that wear out.** Steel and ceramic plates hold a set number of hits depending on the caliber. Ceramic is lighter but cracks faster; once a plate is through, it is gone.
+* **Sound at the speed of sound.** A shot is heard after distance ÷ 343 m/s. When rounds pass close, you hear the supersonic crack first and the muzzle report after it.
+* **Bullets that travel.** Shots follow real trajectories and go through thin walls and cover, depending on the material.
+* **Real weapon sounds.** Firing sounds are real recordings with several variations per shot, not synthesized effects.
+* **AI that has to perceive you.** Soldiers only react to what they see or hear. Distance, light, weather, movement and your silhouette matter: a large backpack or radio pack makes you easier to spot.
+* **A war economy.** Trader prices follow supply and demand from the war: destroy a factory and its goods get scarce.
+* **Terrain as cover.** Slopes, ditches, walls and buildings block sight and fire, and every wall can be shot through or blown apart.
 
 ### The loop
 
@@ -142,6 +158,12 @@ Updated automatically from the [releases](https://github.com/Vyrenbusiness-sourc
 
 Made with the [Godot Engine](https://godotengine.org) (MIT). Weapon, vehicle and ambient sounds are real recordings: free recordings under CC0, CC BY or public domain, plus purchased sound packs. Every source is credited in the game under *Mitwirkende & Lizenzen*.
 
+## Share it, stream it
+
+ATTRITION is free, and you are welcome to pass it on. You may share the unmodified game files for free, mirror or re-upload them, and make videos, Let's Plays and streams, monetized or not. You may not sell the game or release a modified version as your own game. All rights stay with the developer, and third-party sounds and textures keep their own licenses. Details are in the [LICENSE](LICENSE).
+
+Found a bug or have an idea? Open an [issue](https://github.com/Vyrenbusiness-source/attrition-releases/issues/new/choose); [CONTRIBUTING](CONTRIBUTING.md) explains what helps most.
+
 ---
 
 <a id="deutsch"></a>
@@ -152,73 +174,16 @@ Du bist ein Soldat in einem Krieg, der auch ohne dich weiterläuft. Vier Fraktio
 
 Was du mitnimmst, kannst du verlieren. Du fasst kostenlos die Truppenausgabe oder ziehst mit Ausrüstung los, die du gekauft oder erbeutet hast. Fällst du, bleibt sie an deiner Leiche liegen, und wer zuerst da ist, nimmt sie mit. Kommst du zurück, behältst du alles und bekommst Sold für das, was du draußen geleistet hast.
 
-<p align="center"><a href="https://www.youtube.com/watch?v=Mkiqu9hALas"><img src="https://img.youtube.com/vi/Mkiqu9hALas/maxresdefault.jpg" width="720" alt="Trailer auf YouTube ansehen"></a><br><sub>▶ <a href="https://www.youtube.com/watch?v=Mkiqu9hALas">Trailer auf YouTube ansehen</a></sub></p>
+**Frühe Alpha – mit Fehlern ist zu rechnen, Updates kommen häufig.**
 
-## Merkmale
+## Kurz gesagt
 
-<table>
-<tr>
-<td width="50%" valign="top"><img src="media/squad-smoke.jpg" alt="Sanitäter und Schütze im Rauch am Waldrand"><br><b>Ein Gegner, der mitdenkt</b><br>Die KI kämpft im Trupp: Sie sucht Deckung, wirft Rauch für den Sprung über freies Gelände oder zum Bergen eines Verwundeten und nimmt Funker und Führer zuerst unter Feuer. Sie weiß nur, was sie sieht oder hört.</td>
-<td width="50%" valign="top"><img src="media/medic.jpg" alt="Aderpresse anlegen in der Ego-Sicht"><br><b>Verwundung und Sanität</b><br>Treffer wirken nach Wundballistik: Ein Gewehrtreffer in den Rumpf streckt meist nieder. Blutung, Bruch und Brustwunde brauchen jeweils das richtige Mittel: Aderpresse, Druckverband, Kampfgaze, Brustverschluss, Schiene, Morphin oder Infusion.</td>
-</tr>
-<tr>
-<td width="50%" valign="top"><img src="media/trader.jpg" alt="Waffenschmied mit ausgewählter HK416, rechts der Spind"><br><b>Händler und Kriegswirtschaft</b><br>Vier Händler mit eigenem Angebot, Vertrauensstufen und Preisen. Die Preise kommen aus dem Krieg: Fällt eine Fabrik, wird ihre Ware knapp. Der Waffenschmied repariert Platten und Helme.</td>
-<td width="50%" valign="top"><img src="media/inventory.jpg" alt="Inventar mit Helm, Plattenträger und Rucksack"><br><b>Inventar mit Gewicht</b><br>Raster-Inventar mit Rucksäcken, Plattenträgern und Platten, die sich abnutzen. Magazine füllst du Patrone für Patrone in Echtzeit, während das Gefecht weiterläuft. Das Gewicht bestimmt, wie schnell und wie laut du bist.</td>
-</tr>
-<tr>
-<td width="50%" valign="top"><img src="media/workbench.jpg" alt="Werkbank mit Schalldämpfer-Vorschau am Gewehr"><br><b>48 Waffen, über 110 Aufsätze</b><br>Jede Waffe ist sofort kaufbar. Aufsätze schaltest du über die Waffenstufe frei und baust sie an der Werkbank an, mit 3D-Vorschau und Vorher/Nachher-Werten für Rückstoß, Lautstärke, Gewicht und Handhabung.</td>
-<td width="50%" valign="top"><img src="media/forest.jpg" alt="Waldweg im Abendlicht"><br><b>Eine Welt aus Modellen</b><br>Gerundetes Gelände, Wälder mit echten Stämmen und Unterholz, Straßen, Güterbahnhof und Industrie als richtige 3D-Modelle. Jede Wand lässt sich trotzdem durchschießen oder sprengen.</td>
-</tr>
-<tr>
-<td width="50%" valign="top"><img src="media/street-fight.jpg" alt="Nachtgefecht in einer brennenden Straße, Ego-Sicht"><br><b>Ziele mit Verlauf</b><br>Ein Match dauert etwa 90 Minuten über sechs Ziele. Zwischen den Stufen stimmt das Team über das nächste Ziel ab. Ereignisse wie ein Panzervorstoß, Artillerie, ein abgestürzter Hubschrauber oder ein Wetterumschwung können die Runde drehen.</td>
-<td width="50%" valign="top"><img src="media/rain.jpg" alt="Trupp unter rotem Rauch im Regen"><br><b>Wetter, Tag und Nacht</b><br>Regen, Nebel, Schnee und Dunkelheit nehmen dir und der KI gleichermaßen die Sicht. Nachts wird unter Leuchtgranaten und brennenden Häusern gekämpft.</td>
-</tr>
-<tr>
-<td colspan="2" valign="top"><img src="media/freight-yard.jpg" alt="Güterbahnhof mit Waggons und Containern"><br><b>Feldbeförderung</b><br>Mit Punkten aus der Runde steigst du bis zum Leutnant auf. Jeder Rang bringt Abrufe dazu, etwa Mörserfeuer, eine Aufklärungsdrohne, Nebelvorhang, Transporthubschrauber, Artillerie oder eine einzelne gelenkte Granate. Wer fällt, verliert einen Rang.</td>
-</tr>
-</table>
-
-### Der Ablauf
-
-1. **Ausrüstung fassen** im Spawn-Screen: kostenlose Truppenausgabe für deine Rolle oder eigene Ausrüstung aus dem Spind.
-2. **Einrücken** und um das aktuelle Ziel kämpfen.
-3. **Sold verdienen.** Jeder Abschuss zählt, mit Gefahrenzuschlag in Unterzahl, unter Beschuss oder im Häuserkampf. Eigenbeschuss kostet.
-4. **Plündern** ohne Ladebildschirm. Wer an einer Leiche kniet, ist laut und ungeschützt.
-5. **Fallen und verlieren** oder **abgelöst werden**: 20 Sekunden ohne Feindkontakt an Basis oder Sammelpunkt, und die Ausrüstung geht zurück in den Spind.
-6. **Abrechnen** am Rundenende mit einer persönlichen Bilanz über alles, was du verdient und verloren hast.
-
-Die Waffenklänge stammen aus echten Aufnahmen, mit mehreren Varianten je Schuss. Ferne Schüsse kommen mit Schallverzögerung an: erst der Knall des Geschosses, dann der Mündungsknall.
-
-## Spielmodi
-
-| Modus | |
-|---|---|
-| **Match** | Etwa 90 Minuten, sechs Ziele nacheinander, alle Fraktionen kämpfen um dasselbe Ziel. |
-| **Fraktionskrieg** | Fraktion wählen und in den laufenden Krieg auf der ganzen Karte. |
-| **Lone Wolf** | Allein zwischen den Fronten, ohne Kommandant und Nachschub. |
-| **Koop** | Zu zweit im selben Krieg, mit gemeinsamem Plündern und Bergen der Ausrüstung gefallener Kameraden. |
-| **PvP** | Nur Spieler, zwei Teams, bis zu vier Spieler. Im PvP geht keine Ausrüstung verloren. |
-
-## Inhalt
-
-| | |
-|---|---|
-| Waffen | 48 |
-| Aufsätze | über 110 |
-| Händler | 4 |
-| Sanitätsmittel | 13 |
-| Drohnentypen | 5 |
-| Fraktionen | 4 |
-| Feldränge | 5 (bis Leutnant) |
-
-## Systemvoraussetzungen
-
-| | |
-|---|---|
-| System | Windows 10 oder 11, 64-Bit |
-| Grafik | Grafikkarte mit Vulkan- oder Direct3D-12-Unterstützung |
-| **Empfohlen (getestet)** | AMD Ryzen 7 7800X3D · NVIDIA GeForce RTX 5070 · 32 GB RAM, Ziel 144 fps auf Ultra |
-| Ältere PCs | Qualitätsstufe Mittel oder Niedrig |
+* KI-Trupps, die Deckung nehmen, Nebel werfen, Verwundete bergen und nur wissen, was sie sehen oder hören
+* Wundballistik und Sanität nach TCCC: Aderpresse, Druckverband, Chest Seal, Schiene, Morphin, Infusion
+* Händler, Spind und Kriegswirtschaft: Ausrüstung kaufen, erbeuten, verlieren
+* 48 Waffen, über 110 Aufsätze, Werkbank mit Vorher/Nachher-Werten
+* Zerstörbare Voxel-Welt, Wetter, Tag und Nacht
+* Match, Koop und PvP
 
 ## Herunterladen und Updates
 
@@ -226,20 +191,7 @@ Die Waffenklänge stammen aus echten Aufnahmen, mit mehreren Varianten je Schuss
 2. Alle Dateien dieser Version (`ATTRITION.exe`, `ATTRITION.pck` und die `.dll`-Dateien) in einen gemeinsamen Ordner laden.
 3. `ATTRITION.exe` starten.
 
-Danach aktualisiert sich das Spiel selbst. Es fragt beim Start und im Hauptmenü hier nach, lädt nur geänderte Dateien und prüft vor dem Einspielen die Signatur.
-
-## Steuerung
-
-| Taste | Aktion | Taste | Aktion |
-|---|---|---|---|
-| W A S D | Bewegen | Tab | Inventar |
-| Leertaste / Shift / Strg | Springen / Sprinten / Ducken | X | Verwundung versorgen |
-| Q / E | Lehnen | G / H | Granate / Granatart |
-| R | Nachladen | B | FPV-Drohne |
-| F | Benutzen, plündern, Fahrzeuge | M | Lagekarte |
-| 4 – 7 | Schnellplätze | P (halten) | Punktetafel |
-
-Alle Tasten lassen sich in den Einstellungen neu belegen.
+Danach aktualisiert sich das Spiel selbst. Alle Tasten lassen sich in den Einstellungen neu belegen.
 
 <a id="neueste-updates"></a>
 
@@ -263,6 +215,8 @@ Wird automatisch aus den [Veröffentlichungen](https://github.com/Vyrenbusiness-
 ## Mitwirkende und Lizenzen
 
 Gebaut mit der [Godot Engine](https://godotengine.org) (MIT). Waffen-, Fahrzeug- und Umgebungsklänge sind echte Aufnahmen: freie Aufnahmen unter CC0, CC BY oder gemeinfrei sowie gekaufte Soundpakete. Jede Quelle steht im Spiel unter *Mitwirkende & Lizenzen*.
+
+Das Spiel ist kostenlos und darf unverändert frei weitergegeben werden, auch als Mirror; Videos und Streams sind ausdrücklich erwünscht, auch monetarisiert. Verkauf und veränderte Fassungen als eigenes Spiel sind nicht erlaubt, siehe [LICENSE](LICENSE). Fehler gefunden oder eine Idee? Einfach ein [Issue](https://github.com/Vyrenbusiness-source/attrition-releases/issues/new/choose) eröffnen.
 
 ---
 

@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Download the latest version
+    url: https://github.com/Vyrenbusiness-source/attrition-releases/releases/latest
+    about: Many bugs are already fixed. The game updates itself, but you can always grab the newest release here.
+  - name: Report a security vulnerability
+    url: https://github.com/Vyrenbusiness-source/attrition-releases/security/advisories/new
+    about: Please report security problems privately, not in a public issue.
+  - name: Watch the trailer
+    url: https://www.youtube.com/watch?v=Mkiqu9hALas
+    about: See the game in action on YouTube.
