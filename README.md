@@ -128,6 +128,7 @@ Updated automatically from the [releases](https://github.com/Vyrenbusiness-sourc
 <!-- updates:en:start -->
 | Version | Date | What changed |
 |---|---|---|
+| [**1.0.146**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.146) | Oct 23, 2026 | Dorf als echte Modelle (Rund-, Silo- und Kleinballen statt Sandblöcken, Grabsteine und Kreuze mit Grabbeet, Latten-, Koppel- und Geländerzäune, Bänke); Ziehen und Ablegen wie Tarkov: grün/rot-Vorschau überall … |
 | [**1.0.145**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.145) | Oct 23, 2026 | Händler verbessert: Mausrad-Scrollen überall, angeklickte Waffe hebt passende Munition, Magazine und Aufsätze in Angebot, Spind und Werkbank hervor (Filter „nur passende“), Typkürzel statt abgeschnittener Namen … |
 | [**1.0.144**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.144) | Oct 23, 2026 | Spawn-Screen neu geordnet: Einsetzen-Knopf in jeder Auflösung und jedem Zustand sichtbar (auch nach dem Tod mit vielen Kameraden), nichts mehr abgeschnitten, Karte zeigt sofort das echte Kartenbild, Ziehen mit linker … |
 | [**1.0.143**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.143) | Oct 23, 2026 | Türen und Eingänge frei: Wäscheleinen, Container, Mülltonnen, Bushaltestellen, Schuppen, Schutt und Baustellen stehen nicht mehr vor Haus-, Hof- und Ladentüren (vorher 300–430 blockierte Eingänge je Karte). … |
@@ -135,7 +136,6 @@ Updated automatically from the [releases](https://github.com/Vyrenbusiness-sourc
 | [**1.0.141**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.141) | Oct 22, 2026 | Werkbank im Spind: Aufsätze per Ziehen an die Waffe bauen (3D-Vorschau, Vorher/Nachher-Balken), Gerät, Drohne und Tarnanzug wieder wählbar (Spind-Plätze, T im Spawn-Screen), Ausrüstungssätze speichern alles mit … |
 | [**1.0.140**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.140) | Oct 22, 2026 | Industrie und Bahnhof als echte Modelle: ISO-Container mit Türen und Verriegelung, Palettenstapel, Rohrbündel, Rohrbrücke, Kies-Schüttkegel, Güter- und Kesselwagen auf Drehgestellen, Betonhöcker statt Klötzen – nichts … |
 | [**1.0.139**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.139) | Oct 22, 2026 | Abschuss-Bestätigungston neu aus freien CC0-Aufnahmen (der alte stammte aus einem kommerziellen Spiel); Lizenzangaben vervollständigt |
-| [**1.0.138**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.138) | Oct 22, 2026 | Schüsse auf dich hörst du jetzt immer: erst das Zischen, dann verzögert den Mündungsknall (vorher verdrängte das Klanglimit ferne Schützen); gedämpfte Waffen hört man beschossen leise und dumpf statt gar nicht |
 <!-- updates:en:end -->
 
 ## Credits and licenses
@@ -250,6 +250,7 @@ Wird automatisch aus den [Veröffentlichungen](https://github.com/Vyrenbusiness-
 <!-- updates:de:start -->
 | Version | Datum | Was ist neu |
 |---|---|---|
+| [**1.0.146**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.146) | 23.10.2026 | Dorf als echte Modelle (Rund-, Silo- und Kleinballen statt Sandblöcken, Grabsteine und Kreuze mit Grabbeet, Latten-, Koppel- und Geländerzäune, Bänke); Ziehen und Ablegen wie Tarkov: grün/rot-Vorschau überall … |
 | [**1.0.145**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.145) | 23.10.2026 | Händler verbessert: Mausrad-Scrollen überall, angeklickte Waffe hebt passende Munition, Magazine und Aufsätze in Angebot, Spind und Werkbank hervor (Filter „nur passende“), Typkürzel statt abgeschnittener Namen … |
 | [**1.0.144**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.144) | 23.10.2026 | Spawn-Screen neu geordnet: Einsetzen-Knopf in jeder Auflösung und jedem Zustand sichtbar (auch nach dem Tod mit vielen Kameraden), nichts mehr abgeschnitten, Karte zeigt sofort das echte Kartenbild, Ziehen mit linker … |
 | [**1.0.143**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.143) | 23.10.2026 | Türen und Eingänge frei: Wäscheleinen, Container, Mülltonnen, Bushaltestellen, Schuppen, Schutt und Baustellen stehen nicht mehr vor Haus-, Hof- und Ladentüren (vorher 300–430 blockierte Eingänge je Karte). … |
@@ -257,7 +258,6 @@ Wird automatisch aus den [Veröffentlichungen](https://github.com/Vyrenbusiness-
 | [**1.0.141**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.141) | 22.10.2026 | Werkbank im Spind: Aufsätze per Ziehen an die Waffe bauen (3D-Vorschau, Vorher/Nachher-Balken), Gerät, Drohne und Tarnanzug wieder wählbar (Spind-Plätze, T im Spawn-Screen), Ausrüstungssätze speichern alles mit … |
 | [**1.0.140**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.140) | 22.10.2026 | Industrie und Bahnhof als echte Modelle: ISO-Container mit Türen und Verriegelung, Palettenstapel, Rohrbündel, Rohrbrücke, Kies-Schüttkegel, Güter- und Kesselwagen auf Drehgestellen, Betonhöcker statt Klötzen – nichts … |
 | [**1.0.139**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.139) | 22.10.2026 | Abschuss-Bestätigungston neu aus freien CC0-Aufnahmen (der alte stammte aus einem kommerziellen Spiel); Lizenzangaben vervollständigt |
-| [**1.0.138**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.138) | 22.10.2026 | Schüsse auf dich hörst du jetzt immer: erst das Zischen, dann verzögert den Mündungsknall (vorher verdrängte das Klanglimit ferne Schützen); gedämpfte Waffen hört man beschossen leise und dumpf statt gar nicht |
 <!-- updates:de:end -->
 
 ## Mitwirkende und Lizenzen
