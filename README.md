@@ -128,6 +128,7 @@ Updated automatically from the [releases](https://github.com/Vyrenbusiness-sourc
 <!-- updates:en:start -->
 | Version | Date | What changed |
 |---|---|---|
+| [**1.0.155**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.155) | Oct 23, 2026 | Bäume aus der Ferne: echte vereinfachte Kronen aus Blatt- und Nadelkarten statt Kugeln und Scheiben, Fichten wirken auch aus 50 m wie Fichten, keine schwebenden Kronenteile mehr, nahe Laubbäume ohne kantige Kerne |
 | [**1.0.154**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.154) | Oct 23, 2026 | Treppen: Spieler wird in die Mitte des Treppenlaufs geführt, kein Hängen an der Stufenecke; Ablösung sagt jetzt klar, warum sie nicht geht (verwundet, unter Beschuss, Feindkontakt, erst aussteigen) |
 | [**1.0.153**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.153) | Oct 23, 2026 | KI im offenen Gefecht realistischer: Feuerbasis prüft ihre Deckung gegen die bekannte Feindstellung, beim Erstkontakt auf Entfernung Sprung in Deckung statt Stehen, zweite Deckungssuche seitlich-vorwärts – weniger … |
 | [**1.0.152**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.152) | Oct 23, 2026 | Treppen in Gebäuden ohne Springen hoch und runter (Stufen eines Treppenlaufs werden erkannt, Mauern bleiben ein Sprung); Koop-Einsatzfehler behoben; F an Basis/Sammelpunkt öffnet Leichen und Fahrzeuge nur noch beim … |
@@ -135,7 +136,6 @@ Updated automatically from the [releases](https://github.com/Vyrenbusiness-sourc
 | [**1.0.150**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.150) | Oct 23, 2026 | Wirtschaft wie Tarkov abgestimmt: gute Waffen und Schutz teurer (HK416 4.000, Keramikplatte 4.500), Beute bringt weniger, Versicherung 12–30 %, Vertrauensstufen der Händler als Weg zur Top-Ausrüstung (~8–10 h), ein Tod … |
 | [**1.0.149**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.149) | Oct 23, 2026 | HUD aufgeräumt: Kompassmarken überlappen das Zielbanner nicht mehr, scharfe Teilziel-Plakette statt Symbolsalat, Weltmarker bleiben im Bild, Fahrzeugschilder nicht mehr durch Wände, HUD bei offenen Menüs ausgeblendet … |
 | [**1.0.148**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.148) | Oct 23, 2026 | Bäume: kein Verschwinden und Aufploppen mehr beim Laufen, keine Stämme mehr über Mauern/Garagen/Zäunen, rundere und dichtere Kronen. Kartenversion 11, Koop-Protokoll 57 |
-| [**1.0.147**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.147) | Oct 23, 2026 | Hänge ohne Springen: auf der echten Karte 0 Hänger an natürlichen Hängen (vorher 21–32 je Karte), Mauern und Gebäudestufen bleiben ein Sprung; Sägezahn-Kanten an Felsgraten und Hangfüßen beseitigt; weniger … |
 <!-- updates:en:end -->
 
 ## Credits and licenses
@@ -250,6 +250,7 @@ Wird automatisch aus den [Veröffentlichungen](https://github.com/Vyrenbusiness-
 <!-- updates:de:start -->
 | Version | Datum | Was ist neu |
 |---|---|---|
+| [**1.0.155**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.155) | 23.10.2026 | Bäume aus der Ferne: echte vereinfachte Kronen aus Blatt- und Nadelkarten statt Kugeln und Scheiben, Fichten wirken auch aus 50 m wie Fichten, keine schwebenden Kronenteile mehr, nahe Laubbäume ohne kantige Kerne |
 | [**1.0.154**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.154) | 23.10.2026 | Treppen: Spieler wird in die Mitte des Treppenlaufs geführt, kein Hängen an der Stufenecke; Ablösung sagt jetzt klar, warum sie nicht geht (verwundet, unter Beschuss, Feindkontakt, erst aussteigen) |
 | [**1.0.153**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.153) | 23.10.2026 | KI im offenen Gefecht realistischer: Feuerbasis prüft ihre Deckung gegen die bekannte Feindstellung, beim Erstkontakt auf Entfernung Sprung in Deckung statt Stehen, zweite Deckungssuche seitlich-vorwärts – weniger … |
 | [**1.0.152**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.152) | 23.10.2026 | Treppen in Gebäuden ohne Springen hoch und runter (Stufen eines Treppenlaufs werden erkannt, Mauern bleiben ein Sprung); Koop-Einsatzfehler behoben; F an Basis/Sammelpunkt öffnet Leichen und Fahrzeuge nur noch beim … |
@@ -257,7 +258,6 @@ Wird automatisch aus den [Veröffentlichungen](https://github.com/Vyrenbusiness-
 | [**1.0.150**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.150) | 23.10.2026 | Wirtschaft wie Tarkov abgestimmt: gute Waffen und Schutz teurer (HK416 4.000, Keramikplatte 4.500), Beute bringt weniger, Versicherung 12–30 %, Vertrauensstufen der Händler als Weg zur Top-Ausrüstung (~8–10 h), ein Tod … |
 | [**1.0.149**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.149) | 23.10.2026 | HUD aufgeräumt: Kompassmarken überlappen das Zielbanner nicht mehr, scharfe Teilziel-Plakette statt Symbolsalat, Weltmarker bleiben im Bild, Fahrzeugschilder nicht mehr durch Wände, HUD bei offenen Menüs ausgeblendet … |
 | [**1.0.148**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.148) | 23.10.2026 | Bäume: kein Verschwinden und Aufploppen mehr beim Laufen, keine Stämme mehr über Mauern/Garagen/Zäunen, rundere und dichtere Kronen. Kartenversion 11, Koop-Protokoll 57 |
-| [**1.0.147**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.147) | 23.10.2026 | Hänge ohne Springen: auf der echten Karte 0 Hänger an natürlichen Hängen (vorher 21–32 je Karte), Mauern und Gebäudestufen bleiben ein Sprung; Sägezahn-Kanten an Felsgraten und Hangfüßen beseitigt; weniger … |
 <!-- updates:de:end -->
 
 ## Mitwirkende und Lizenzen
