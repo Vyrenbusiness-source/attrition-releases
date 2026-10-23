@@ -144,6 +144,7 @@ Updated automatically from the [releases](https://github.com/Vyrenbusiness-sourc
 <!-- updates:en:start -->
 | Version | Date | What changed |
 |---|---|---|
+| [**1.0.162**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.162) | Oct 23, 2026 | Niedergestreckte Gegner gleiten nicht mehr und lassen sich mit einem Endstoß erledigen (Trefferzonen folgen dem liegenden Körper, Kopftreffer im Liegen tödlich); Kriechen mit echter Arm-/Beinbewegung |
 | [**1.0.161**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.161) | Oct 23, 2026 | Bäume: volle Modelle bis 200 m (vorher 20 m), keine Würfel mehr in normaler Sichtweite; Nachladen: HUD sagt klar, warum R nicht lädt (Magazin im Rucksack/passt nicht/leer), gefüllte Magazine wandern aus dem Rucksack in … |
 | [**1.0.160**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.160) | Oct 23, 2026 | Ego-Hände an Pistolen: Finger liegen am Griff statt in der Waffe, Stützhand umgreift die Schusshand (Daumen-vorn-Griff) |
 | [**1.0.159**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.159) | Oct 23, 2026 | Werkbank neu: drei Spalten, nur besessene Aufsätze, alle Werte mit Vorher/Nachher, Linien kreuzen sich nicht mehr; Patronenarten zeigen ihre Unterschiede (Platten-Durchschlag, Schaden, Geschwindigkeit, Hörweite … |
@@ -151,7 +152,6 @@ Updated automatically from the [releases](https://github.com/Vyrenbusiness-sourc
 | [**1.0.157**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.157) | Oct 23, 2026 | Kein Stöhnen/Keuchen mehr nach dem Neueinsatz (Atem, Schock, Gehör und Tinnitus werden zurückgesetzt); eigene Schüsse werden im Gefecht nicht mehr leise (vom Klanglimit verdrängt) |
 | [**1.0.156**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.156) | Oct 23, 2026 | Hang hoch ohne Einsinken (Einbrüche je 100 m von ~120 auf ~3–6), Treppen weiter flüssig; Laub und Stämme flackern nicht mehr an den Detailstufen und werden aus der Nähe nicht mehr durchsichtig; F an der Basis startet … |
 | [**1.0.155**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.155) | Oct 23, 2026 | Bäume aus der Ferne: echte vereinfachte Kronen aus Blatt- und Nadelkarten statt Kugeln und Scheiben, Fichten wirken auch aus 50 m wie Fichten, keine schwebenden Kronenteile mehr, nahe Laubbäume ohne kantige Kerne |
-| [**1.0.154**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.154) | Oct 23, 2026 | Treppen: Spieler wird in die Mitte des Treppenlaufs geführt, kein Hängen an der Stufenecke; Ablösung sagt jetzt klar, warum sie nicht geht (verwundet, unter Beschuss, Feindkontakt, erst aussteigen) |
 <!-- updates:en:end -->
 
 ## Credits and licenses
@@ -202,6 +202,7 @@ Wird automatisch aus den [Veröffentlichungen](https://github.com/Vyrenbusiness-
 <!-- updates:de:start -->
 | Version | Datum | Was ist neu |
 |---|---|---|
+| [**1.0.162**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.162) | 23.10.2026 | Niedergestreckte Gegner gleiten nicht mehr und lassen sich mit einem Endstoß erledigen (Trefferzonen folgen dem liegenden Körper, Kopftreffer im Liegen tödlich); Kriechen mit echter Arm-/Beinbewegung |
 | [**1.0.161**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.161) | 23.10.2026 | Bäume: volle Modelle bis 200 m (vorher 20 m), keine Würfel mehr in normaler Sichtweite; Nachladen: HUD sagt klar, warum R nicht lädt (Magazin im Rucksack/passt nicht/leer), gefüllte Magazine wandern aus dem Rucksack in … |
 | [**1.0.160**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.160) | 23.10.2026 | Ego-Hände an Pistolen: Finger liegen am Griff statt in der Waffe, Stützhand umgreift die Schusshand (Daumen-vorn-Griff) |
 | [**1.0.159**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.159) | 23.10.2026 | Werkbank neu: drei Spalten, nur besessene Aufsätze, alle Werte mit Vorher/Nachher, Linien kreuzen sich nicht mehr; Patronenarten zeigen ihre Unterschiede (Platten-Durchschlag, Schaden, Geschwindigkeit, Hörweite … |
@@ -209,7 +210,6 @@ Wird automatisch aus den [Veröffentlichungen](https://github.com/Vyrenbusiness-
 | [**1.0.157**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.157) | 23.10.2026 | Kein Stöhnen/Keuchen mehr nach dem Neueinsatz (Atem, Schock, Gehör und Tinnitus werden zurückgesetzt); eigene Schüsse werden im Gefecht nicht mehr leise (vom Klanglimit verdrängt) |
 | [**1.0.156**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.156) | 23.10.2026 | Hang hoch ohne Einsinken (Einbrüche je 100 m von ~120 auf ~3–6), Treppen weiter flüssig; Laub und Stämme flackern nicht mehr an den Detailstufen und werden aus der Nähe nicht mehr durchsichtig; F an der Basis startet … |
 | [**1.0.155**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.155) | 23.10.2026 | Bäume aus der Ferne: echte vereinfachte Kronen aus Blatt- und Nadelkarten statt Kugeln und Scheiben, Fichten wirken auch aus 50 m wie Fichten, keine schwebenden Kronenteile mehr, nahe Laubbäume ohne kantige Kerne |
-| [**1.0.154**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.154) | 23.10.2026 | Treppen: Spieler wird in die Mitte des Treppenlaufs geführt, kein Hängen an der Stufenecke; Ablösung sagt jetzt klar, warum sie nicht geht (verwundet, unter Beschuss, Feindkontakt, erst aussteigen) |
 <!-- updates:de:end -->
 
 ## Mitwirkende und Lizenzen
