@@ -144,6 +144,7 @@ Updated automatically from the [releases](https://github.com/Vyrenbusiness-sourc
 <!-- updates:en:start -->
 | Version | Date | What changed |
 |---|---|---|
+| [**1.0.164**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.164) | Oct 23, 2026 | Updates schneller und zuverlässiger: keine 30-Sekunden-Grenze mehr für große Dateien (brach auf langsameren Leitungen ab), größere Download-Blöcke |
 | [**1.0.163**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.163) | Oct 23, 2026 | Ausrüstungswahl klar: Umschalter KOSTENLOS / EIGENE AUSRÜSTUNG (Taste E) – eigene Ausrüstung bringt exakt den Spind-Satz und die Mitnahme mit, keine fremden Gegenstände mehr; aufgeräumter Spawn-Screen mit Satzkarte … |
 | [**1.0.162**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.162) | Oct 23, 2026 | Niedergestreckte Gegner gleiten nicht mehr und lassen sich mit einem Endstoß erledigen (Trefferzonen folgen dem liegenden Körper, Kopftreffer im Liegen tödlich); Kriechen mit echter Arm-/Beinbewegung |
 | [**1.0.161**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.161) | Oct 23, 2026 | Bäume: volle Modelle bis 200 m (vorher 20 m), keine Würfel mehr in normaler Sichtweite; Nachladen: HUD sagt klar, warum R nicht lädt (Magazin im Rucksack/passt nicht/leer), gefüllte Magazine wandern aus dem Rucksack in … |
@@ -151,7 +152,6 @@ Updated automatically from the [releases](https://github.com/Vyrenbusiness-sourc
 | [**1.0.159**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.159) | Oct 23, 2026 | Werkbank neu: drei Spalten, nur besessene Aufsätze, alle Werte mit Vorher/Nachher, Linien kreuzen sich nicht mehr; Patronenarten zeigen ihre Unterschiede (Platten-Durchschlag, Schaden, Geschwindigkeit, Hörweite … |
 | [**1.0.158**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.158) | Oct 23, 2026 | Nach dem Tod direkt zu Händler [H], Spind [S] und Werkbank [W] aus dem Spawn-Screen; Verlustzeile mit „Ausrüstung ersetzen“: Händler zeigt nur Ersatz für den verlorenen Satz, „Alles kaufen“ mit Gesamtpreis (Teile aus … |
 | [**1.0.157**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.157) | Oct 23, 2026 | Kein Stöhnen/Keuchen mehr nach dem Neueinsatz (Atem, Schock, Gehör und Tinnitus werden zurückgesetzt); eigene Schüsse werden im Gefecht nicht mehr leise (vom Klanglimit verdrängt) |
-| [**1.0.156**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.156) | Oct 23, 2026 | Hang hoch ohne Einsinken (Einbrüche je 100 m von ~120 auf ~3–6), Treppen weiter flüssig; Laub und Stämme flackern nicht mehr an den Detailstufen und werden aus der Nähe nicht mehr durchsichtig; F an der Basis startet … |
 <!-- updates:en:end -->
 
 ## Credits and licenses
@@ -202,6 +202,7 @@ Wird automatisch aus den [Veröffentlichungen](https://github.com/Vyrenbusiness-
 <!-- updates:de:start -->
 | Version | Datum | Was ist neu |
 |---|---|---|
+| [**1.0.164**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.164) | 23.10.2026 | Updates schneller und zuverlässiger: keine 30-Sekunden-Grenze mehr für große Dateien (brach auf langsameren Leitungen ab), größere Download-Blöcke |
 | [**1.0.163**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.163) | 23.10.2026 | Ausrüstungswahl klar: Umschalter KOSTENLOS / EIGENE AUSRÜSTUNG (Taste E) – eigene Ausrüstung bringt exakt den Spind-Satz und die Mitnahme mit, keine fremden Gegenstände mehr; aufgeräumter Spawn-Screen mit Satzkarte … |
 | [**1.0.162**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.162) | 23.10.2026 | Niedergestreckte Gegner gleiten nicht mehr und lassen sich mit einem Endstoß erledigen (Trefferzonen folgen dem liegenden Körper, Kopftreffer im Liegen tödlich); Kriechen mit echter Arm-/Beinbewegung |
 | [**1.0.161**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.161) | 23.10.2026 | Bäume: volle Modelle bis 200 m (vorher 20 m), keine Würfel mehr in normaler Sichtweite; Nachladen: HUD sagt klar, warum R nicht lädt (Magazin im Rucksack/passt nicht/leer), gefüllte Magazine wandern aus dem Rucksack in … |
@@ -209,7 +210,6 @@ Wird automatisch aus den [Veröffentlichungen](https://github.com/Vyrenbusiness-
 | [**1.0.159**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.159) | 23.10.2026 | Werkbank neu: drei Spalten, nur besessene Aufsätze, alle Werte mit Vorher/Nachher, Linien kreuzen sich nicht mehr; Patronenarten zeigen ihre Unterschiede (Platten-Durchschlag, Schaden, Geschwindigkeit, Hörweite … |
 | [**1.0.158**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.158) | 23.10.2026 | Nach dem Tod direkt zu Händler [H], Spind [S] und Werkbank [W] aus dem Spawn-Screen; Verlustzeile mit „Ausrüstung ersetzen“: Händler zeigt nur Ersatz für den verlorenen Satz, „Alles kaufen“ mit Gesamtpreis (Teile aus … |
 | [**1.0.157**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.157) | 23.10.2026 | Kein Stöhnen/Keuchen mehr nach dem Neueinsatz (Atem, Schock, Gehör und Tinnitus werden zurückgesetzt); eigene Schüsse werden im Gefecht nicht mehr leise (vom Klanglimit verdrängt) |
-| [**1.0.156**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.156) | 23.10.2026 | Hang hoch ohne Einsinken (Einbrüche je 100 m von ~120 auf ~3–6), Treppen weiter flüssig; Laub und Stämme flackern nicht mehr an den Detailstufen und werden aus der Nähe nicht mehr durchsichtig; F an der Basis startet … |
 <!-- updates:de:end -->
 
 ## Mitwirkende und Lizenzen
