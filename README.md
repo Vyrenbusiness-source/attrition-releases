@@ -128,6 +128,7 @@ Updated automatically from the [releases](https://github.com/Vyrenbusiness-sourc
 <!-- updates:en:start -->
 | Version | Date | What changed |
 |---|---|---|
+| [**1.0.151**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.151) | Oct 23, 2026 | Laub realistischer: Laubbäume aus Zweigkarten mit echten Buchenblättern (Licht scheint durch, leichter Wind), Fichten und Kiefern mit echten Nadelzweigen in Etagen statt Kugeln, keine körnige Überblendung mehr; Leistung … |
 | [**1.0.150**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.150) | Oct 23, 2026 | Wirtschaft wie Tarkov abgestimmt: gute Waffen und Schutz teurer (HK416 4.000, Keramikplatte 4.500), Beute bringt weniger, Versicherung 12–30 %, Vertrauensstufen der Händler als Weg zur Top-Ausrüstung (~8–10 h), ein Tod … |
 | [**1.0.149**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.149) | Oct 23, 2026 | HUD aufgeräumt: Kompassmarken überlappen das Zielbanner nicht mehr, scharfe Teilziel-Plakette statt Symbolsalat, Weltmarker bleiben im Bild, Fahrzeugschilder nicht mehr durch Wände, HUD bei offenen Menüs ausgeblendet … |
 | [**1.0.148**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.148) | Oct 23, 2026 | Bäume: kein Verschwinden und Aufploppen mehr beim Laufen, keine Stämme mehr über Mauern/Garagen/Zäunen, rundere und dichtere Kronen. Kartenversion 11, Koop-Protokoll 57 |
@@ -135,7 +136,6 @@ Updated automatically from the [releases](https://github.com/Vyrenbusiness-sourc
 | [**1.0.146**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.146) | Oct 23, 2026 | Dorf als echte Modelle (Rund-, Silo- und Kleinballen statt Sandblöcken, Grabsteine und Kreuze mit Grabbeet, Latten-, Koppel- und Geländerzäune, Bänke); Ziehen und Ablegen wie Tarkov: grün/rot-Vorschau überall … |
 | [**1.0.145**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.145) | Oct 23, 2026 | Händler verbessert: Mausrad-Scrollen überall, angeklickte Waffe hebt passende Munition, Magazine und Aufsätze in Angebot, Spind und Werkbank hervor (Filter „nur passende“), Typkürzel statt abgeschnittener Namen … |
 | [**1.0.144**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.144) | Oct 23, 2026 | Spawn-Screen neu geordnet: Einsetzen-Knopf in jeder Auflösung und jedem Zustand sichtbar (auch nach dem Tod mit vielen Kameraden), nichts mehr abgeschnitten, Karte zeigt sofort das echte Kartenbild, Ziehen mit linker … |
-| [**1.0.143**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.143) | Oct 23, 2026 | Türen und Eingänge frei: Wäscheleinen, Container, Mülltonnen, Bushaltestellen, Schuppen, Schutt und Baustellen stehen nicht mehr vor Haus-, Hof- und Ladentüren (vorher 300–430 blockierte Eingänge je Karte). … |
 <!-- updates:en:end -->
 
 ## Credits and licenses
@@ -250,6 +250,7 @@ Wird automatisch aus den [Veröffentlichungen](https://github.com/Vyrenbusiness-
 <!-- updates:de:start -->
 | Version | Datum | Was ist neu |
 |---|---|---|
+| [**1.0.151**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.151) | 23.10.2026 | Laub realistischer: Laubbäume aus Zweigkarten mit echten Buchenblättern (Licht scheint durch, leichter Wind), Fichten und Kiefern mit echten Nadelzweigen in Etagen statt Kugeln, keine körnige Überblendung mehr; Leistung … |
 | [**1.0.150**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.150) | 23.10.2026 | Wirtschaft wie Tarkov abgestimmt: gute Waffen und Schutz teurer (HK416 4.000, Keramikplatte 4.500), Beute bringt weniger, Versicherung 12–30 %, Vertrauensstufen der Händler als Weg zur Top-Ausrüstung (~8–10 h), ein Tod … |
 | [**1.0.149**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.149) | 23.10.2026 | HUD aufgeräumt: Kompassmarken überlappen das Zielbanner nicht mehr, scharfe Teilziel-Plakette statt Symbolsalat, Weltmarker bleiben im Bild, Fahrzeugschilder nicht mehr durch Wände, HUD bei offenen Menüs ausgeblendet … |
 | [**1.0.148**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.148) | 23.10.2026 | Bäume: kein Verschwinden und Aufploppen mehr beim Laufen, keine Stämme mehr über Mauern/Garagen/Zäunen, rundere und dichtere Kronen. Kartenversion 11, Koop-Protokoll 57 |
@@ -257,7 +258,6 @@ Wird automatisch aus den [Veröffentlichungen](https://github.com/Vyrenbusiness-
 | [**1.0.146**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.146) | 23.10.2026 | Dorf als echte Modelle (Rund-, Silo- und Kleinballen statt Sandblöcken, Grabsteine und Kreuze mit Grabbeet, Latten-, Koppel- und Geländerzäune, Bänke); Ziehen und Ablegen wie Tarkov: grün/rot-Vorschau überall … |
 | [**1.0.145**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.145) | 23.10.2026 | Händler verbessert: Mausrad-Scrollen überall, angeklickte Waffe hebt passende Munition, Magazine und Aufsätze in Angebot, Spind und Werkbank hervor (Filter „nur passende“), Typkürzel statt abgeschnittener Namen … |
 | [**1.0.144**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.144) | 23.10.2026 | Spawn-Screen neu geordnet: Einsetzen-Knopf in jeder Auflösung und jedem Zustand sichtbar (auch nach dem Tod mit vielen Kameraden), nichts mehr abgeschnitten, Karte zeigt sofort das echte Kartenbild, Ziehen mit linker … |
-| [**1.0.143**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.143) | 23.10.2026 | Türen und Eingänge frei: Wäscheleinen, Container, Mülltonnen, Bushaltestellen, Schuppen, Schutt und Baustellen stehen nicht mehr vor Haus-, Hof- und Ladentüren (vorher 300–430 blockierte Eingänge je Karte). … |
 <!-- updates:de:end -->
 
 ## Mitwirkende und Lizenzen
