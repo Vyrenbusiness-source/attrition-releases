@@ -144,6 +144,7 @@ Updated automatically from the [releases](https://github.com/Vyrenbusiness-sourc
 <!-- updates:en:start -->
 | Version | Date | What changed |
 |---|---|---|
+| [**1.0.161**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.161) | Oct 23, 2026 | Bäume: volle Modelle bis 200 m (vorher 20 m), keine Würfel mehr in normaler Sichtweite; Nachladen: HUD sagt klar, warum R nicht lädt (Magazin im Rucksack/passt nicht/leer), gefüllte Magazine wandern aus dem Rucksack in … |
 | [**1.0.160**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.160) | Oct 23, 2026 | Ego-Hände an Pistolen: Finger liegen am Griff statt in der Waffe, Stützhand umgreift die Schusshand (Daumen-vorn-Griff) |
 | [**1.0.159**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.159) | Oct 23, 2026 | Werkbank neu: drei Spalten, nur besessene Aufsätze, alle Werte mit Vorher/Nachher, Linien kreuzen sich nicht mehr; Patronenarten zeigen ihre Unterschiede (Platten-Durchschlag, Schaden, Geschwindigkeit, Hörweite … |
 | [**1.0.158**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.158) | Oct 23, 2026 | Nach dem Tod direkt zu Händler [H], Spind [S] und Werkbank [W] aus dem Spawn-Screen; Verlustzeile mit „Ausrüstung ersetzen“: Händler zeigt nur Ersatz für den verlorenen Satz, „Alles kaufen“ mit Gesamtpreis (Teile aus … |
@@ -151,7 +152,6 @@ Updated automatically from the [releases](https://github.com/Vyrenbusiness-sourc
 | [**1.0.156**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.156) | Oct 23, 2026 | Hang hoch ohne Einsinken (Einbrüche je 100 m von ~120 auf ~3–6), Treppen weiter flüssig; Laub und Stämme flackern nicht mehr an den Detailstufen und werden aus der Nähe nicht mehr durchsichtig; F an der Basis startet … |
 | [**1.0.155**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.155) | Oct 23, 2026 | Bäume aus der Ferne: echte vereinfachte Kronen aus Blatt- und Nadelkarten statt Kugeln und Scheiben, Fichten wirken auch aus 50 m wie Fichten, keine schwebenden Kronenteile mehr, nahe Laubbäume ohne kantige Kerne |
 | [**1.0.154**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.154) | Oct 23, 2026 | Treppen: Spieler wird in die Mitte des Treppenlaufs geführt, kein Hängen an der Stufenecke; Ablösung sagt jetzt klar, warum sie nicht geht (verwundet, unter Beschuss, Feindkontakt, erst aussteigen) |
-| [**1.0.153**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.153) | Oct 23, 2026 | KI im offenen Gefecht realistischer: Feuerbasis prüft ihre Deckung gegen die bekannte Feindstellung, beim Erstkontakt auf Entfernung Sprung in Deckung statt Stehen, zweite Deckungssuche seitlich-vorwärts – weniger … |
 <!-- updates:en:end -->
 
 ## Credits and licenses
@@ -202,6 +202,7 @@ Wird automatisch aus den [Veröffentlichungen](https://github.com/Vyrenbusiness-
 <!-- updates:de:start -->
 | Version | Datum | Was ist neu |
 |---|---|---|
+| [**1.0.161**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.161) | 23.10.2026 | Bäume: volle Modelle bis 200 m (vorher 20 m), keine Würfel mehr in normaler Sichtweite; Nachladen: HUD sagt klar, warum R nicht lädt (Magazin im Rucksack/passt nicht/leer), gefüllte Magazine wandern aus dem Rucksack in … |
 | [**1.0.160**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.160) | 23.10.2026 | Ego-Hände an Pistolen: Finger liegen am Griff statt in der Waffe, Stützhand umgreift die Schusshand (Daumen-vorn-Griff) |
 | [**1.0.159**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.159) | 23.10.2026 | Werkbank neu: drei Spalten, nur besessene Aufsätze, alle Werte mit Vorher/Nachher, Linien kreuzen sich nicht mehr; Patronenarten zeigen ihre Unterschiede (Platten-Durchschlag, Schaden, Geschwindigkeit, Hörweite … |
 | [**1.0.158**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.158) | 23.10.2026 | Nach dem Tod direkt zu Händler [H], Spind [S] und Werkbank [W] aus dem Spawn-Screen; Verlustzeile mit „Ausrüstung ersetzen“: Händler zeigt nur Ersatz für den verlorenen Satz, „Alles kaufen“ mit Gesamtpreis (Teile aus … |
@@ -209,7 +210,6 @@ Wird automatisch aus den [Veröffentlichungen](https://github.com/Vyrenbusiness-
 | [**1.0.156**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.156) | 23.10.2026 | Hang hoch ohne Einsinken (Einbrüche je 100 m von ~120 auf ~3–6), Treppen weiter flüssig; Laub und Stämme flackern nicht mehr an den Detailstufen und werden aus der Nähe nicht mehr durchsichtig; F an der Basis startet … |
 | [**1.0.155**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.155) | 23.10.2026 | Bäume aus der Ferne: echte vereinfachte Kronen aus Blatt- und Nadelkarten statt Kugeln und Scheiben, Fichten wirken auch aus 50 m wie Fichten, keine schwebenden Kronenteile mehr, nahe Laubbäume ohne kantige Kerne |
 | [**1.0.154**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.154) | 23.10.2026 | Treppen: Spieler wird in die Mitte des Treppenlaufs geführt, kein Hängen an der Stufenecke; Ablösung sagt jetzt klar, warum sie nicht geht (verwundet, unter Beschuss, Feindkontakt, erst aussteigen) |
-| [**1.0.153**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.153) | 23.10.2026 | KI im offenen Gefecht realistischer: Feuerbasis prüft ihre Deckung gegen die bekannte Feindstellung, beim Erstkontakt auf Entfernung Sprung in Deckung statt Stehen, zweite Deckungssuche seitlich-vorwärts – weniger … |
 <!-- updates:de:end -->
 
 ## Mitwirkende und Lizenzen
