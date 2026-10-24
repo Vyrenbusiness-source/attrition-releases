@@ -51,7 +51,7 @@ What you take into a fight is yours to lose. You draw a free standard kit, or yo
 <td width="50%" valign="top"><img src="media/inventory.jpg" alt="Inventory with helmet, plate carrier and backpack"><br><b>Inventory that matters</b><br>Grid inventory with backpacks, plate carriers and plates that wear out. Magazines are filled round by round, in real time, while the fight goes on. Weight changes how fast and how loud you move.</td>
 </tr>
 <tr>
-<td width="50%" valign="top"><img src="media/workbench.jpg" alt="Workbench with a suppressor preview on the rifle"><br><b>48 weapons, 110+ attachments</b><br>Every weapon can be bought right away. Attachments unlock with weapon level and go on at the workbench, with a 3D preview and before/after values for recoil, noise, weight and handling.</td>
+<td width="50%" valign="top"><img src="media/workbench.jpg" alt="Workbench with a suppressor preview on the rifle"><br><b>56 weapons, 120+ attachments</b><br>Every weapon can be bought right away. Attachments unlock with weapon level and go on at the workbench, with a 3D preview and before/after values for recoil, noise, weight and handling.</td>
 <td width="50%" valign="top"><img src="media/forest.jpg" alt="Forest road in the evening light"><br><b>A world built from models</b><br>Rounded terrain, forests with real trunks and undergrowth, streets, rail yards and industry as proper 3D models. Every wall can still be shot through or blown up.</td>
 </tr>
 <tr>
@@ -102,8 +102,10 @@ Weapon sound comes from real recordings, with several variations per shot. Dista
 
 | | |
 |---|---|
-| Weapons | 48 |
-| Attachments | 110+ |
+| Weapons | 56 |
+| Attachments & ammo types | 120+ |
+| Backpacks | 16 |
+| Vests, plates & helmets | 17 |
 | Traders | 4 |
 | Medical items | 13 |
 | Drone types | 5 |
@@ -186,7 +188,7 @@ Was du mitnimmst, kannst du verlieren. Du fasst kostenlos die Truppenausgabe ode
 * KI-Trupps, die Deckung nehmen, Nebel werfen, Verwundete bergen und nur wissen, was sie sehen oder hören
 * Wundballistik und Sanität nach TCCC: Aderpresse, Druckverband, Chest Seal, Schiene, Morphin, Infusion
 * Händler, Spind und Kriegswirtschaft: Ausrüstung kaufen, erbeuten, verlieren
-* 48 Waffen, über 110 Aufsätze, Werkbank mit Vorher/Nachher-Werten
+* 56 Waffen, über 120 Aufsätze und Munitionsarten, 16 Rucksäcke, 17 Westen/Helme, Werkbank mit Vorher/Nachher-Werten
 * Zerstörbare Voxel-Welt, Wetter, Tag und Nacht
 * Match, Koop und PvP
 
