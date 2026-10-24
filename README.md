@@ -144,6 +144,7 @@ Updated automatically from the [releases](https://github.com/Vyrenbusiness-sourc
 <!-- updates:en:start -->
 | Version | Date | What changed |
 |---|---|---|
+| [**1.0.213**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.213) | Oct 24, 2026 | Einnahmen aus dem Spiel doppelt (Abschüsse, Aufträge, Ziele …) |
 | [**1.0.212**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.212) | Oct 24, 2026 | Schüsse mit deutlich mehr Bass und Tiefe von der Mündung |
 | [**1.0.211**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.211) | Oct 24, 2026 | Respawn nach Tod im Heli: wieder laufen/schießen; keine Bodentasche mehr beim Einsatz; Abhol-Heli kommt immer (notfalls neu an der Basis) |
 | [**1.0.210**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.210) | Oct 24, 2026 | Koop: Server-Absturz beim Wiederverwenden von Soldatenfiguren behoben (Verbindung verloren / nach Tod festgehangen) |
@@ -151,7 +152,6 @@ Updated automatically from the [releases](https://github.com/Vyrenbusiness-sourc
 | [**1.0.208**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.208) | Oct 24, 2026 | Koop: Mitspieler-Figuren mit doppeltem bis dreifachem Sendetakt (flüssiger) |
 | [**1.0.207**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.207) | Oct 24, 2026 | Koop: Folgefehler bei Abschuss durch bereits abgebauten Schützen behoben |
 | [**1.0.206**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.206) | Oct 24, 2026 | PvP: alle Aufsätze und Ausrüstung wählbar |
-| [**1.0.205**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.205) | Oct 24, 2026 | Bäume: Stämme mit Krone auch in der Ferne, Zweige dunkel und schräg, dichtere Nadelbäume |
 <!-- updates:en:end -->
 
 ## Credits and licenses
@@ -202,6 +202,7 @@ Wird automatisch aus den [Veröffentlichungen](https://github.com/Vyrenbusiness-
 <!-- updates:de:start -->
 | Version | Datum | Was ist neu |
 |---|---|---|
+| [**1.0.213**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.213) | 24.10.2026 | Einnahmen aus dem Spiel doppelt (Abschüsse, Aufträge, Ziele …) |
 | [**1.0.212**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.212) | 24.10.2026 | Schüsse mit deutlich mehr Bass und Tiefe von der Mündung |
 | [**1.0.211**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.211) | 24.10.2026 | Respawn nach Tod im Heli: wieder laufen/schießen; keine Bodentasche mehr beim Einsatz; Abhol-Heli kommt immer (notfalls neu an der Basis) |
 | [**1.0.210**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.210) | 24.10.2026 | Koop: Server-Absturz beim Wiederverwenden von Soldatenfiguren behoben (Verbindung verloren / nach Tod festgehangen) |
@@ -209,7 +210,6 @@ Wird automatisch aus den [Veröffentlichungen](https://github.com/Vyrenbusiness-
 | [**1.0.208**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.208) | 24.10.2026 | Koop: Mitspieler-Figuren mit doppeltem bis dreifachem Sendetakt (flüssiger) |
 | [**1.0.207**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.207) | 24.10.2026 | Koop: Folgefehler bei Abschuss durch bereits abgebauten Schützen behoben |
 | [**1.0.206**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.206) | 24.10.2026 | PvP: alle Aufsätze und Ausrüstung wählbar |
-| [**1.0.205**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.205) | 24.10.2026 | Bäume: Stämme mit Krone auch in der Ferne, Zweige dunkel und schräg, dichtere Nadelbäume |
 <!-- updates:de:end -->
 
 ## Mitwirkende und Lizenzen
