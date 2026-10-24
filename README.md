@@ -144,6 +144,7 @@ Updated automatically from the [releases](https://github.com/Vyrenbusiness-sourc
 <!-- updates:en:start -->
 | Version | Date | What changed |
 |---|---|---|
+| [**1.0.191**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.191) | Oct 24, 2026 | KI im Freien: Zielansprache mit Richtung/Entfernung/Gelände, „Ich gehe!“/„Gedeckt!“, Halt an echter Deckung statt frei stehen; Horchen an der Tür nur noch auf echte Geräusche |
 | [**1.0.190**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.190) | Oct 24, 2026 | Heli-Abholung zur Basis: mittlere Maustaste → Abholung (2.500–4.000 Sold), grüner Rauch, Ausrüstung kommt in den Spind |
 | [**1.0.189**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.189) | Oct 24, 2026 | KI Häuserkampf ohne Hellsehen: Raum frei erst nach Einsehen, versteckte Gegner können übersehen werden; Aufstellung außer Schussfeld der Tür; Wanddurchbruch abseits der Tür |
 | [**1.0.188**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.188) | Oct 24, 2026 | Westen am Koop-Mitspieler/Leiche sichtbar; KI-Meldekette: Panzer mit Richtung per Funk, andere Trupps umgehen; Todeszonen mit Ursache, Flanke/Nachbartrupp nach Wert; Gewehre schießen nicht mehr sinnlos auf Panzer |
@@ -151,7 +152,6 @@ Updated automatically from the [releases](https://github.com/Vyrenbusiness-sourc
 | [**1.0.186**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.186) | Oct 24, 2026 | KI Häuserkampf: Feuerschutz, Granate, Raum-für-Raum mit Zurufen, Funkmeldung „Haus frei“, neu ordnen statt Abbruch; Organ-Treffer auch an Liegenden |
 | [**1.0.185**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.185) | Oct 24, 2026 | 5 neue Westen (JPC, AVS, 6B45, Chest-Rig, Unterziehweste) mit Schutzzeile „Schützt/Seiten/Offen“; Rucksäcke ohne Durchdringungen |
 | [**1.0.184**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.184) | Oct 24, 2026 | KI: schießt auf nahe Feinde zuerst zurück statt Sandsäcke zu bauen |
-| [**1.0.183**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.183) | Oct 24, 2026 | Organ-Treffer (Hirn sofort tot, Herz nach Sekunden), Westen nach Fläche/Seitenschutz, Rucksack bremst von hinten; Panzer allein fahren und schießen; Basisfahrzeuge nur gegen Kaution (Sold-Exploit) |
 <!-- updates:en:end -->
 
 ## Credits and licenses
@@ -202,6 +202,7 @@ Wird automatisch aus den [Veröffentlichungen](https://github.com/Vyrenbusiness-
 <!-- updates:de:start -->
 | Version | Datum | Was ist neu |
 |---|---|---|
+| [**1.0.191**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.191) | 24.10.2026 | KI im Freien: Zielansprache mit Richtung/Entfernung/Gelände, „Ich gehe!“/„Gedeckt!“, Halt an echter Deckung statt frei stehen; Horchen an der Tür nur noch auf echte Geräusche |
 | [**1.0.190**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.190) | 24.10.2026 | Heli-Abholung zur Basis: mittlere Maustaste → Abholung (2.500–4.000 Sold), grüner Rauch, Ausrüstung kommt in den Spind |
 | [**1.0.189**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.189) | 24.10.2026 | KI Häuserkampf ohne Hellsehen: Raum frei erst nach Einsehen, versteckte Gegner können übersehen werden; Aufstellung außer Schussfeld der Tür; Wanddurchbruch abseits der Tür |
 | [**1.0.188**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.188) | 24.10.2026 | Westen am Koop-Mitspieler/Leiche sichtbar; KI-Meldekette: Panzer mit Richtung per Funk, andere Trupps umgehen; Todeszonen mit Ursache, Flanke/Nachbartrupp nach Wert; Gewehre schießen nicht mehr sinnlos auf Panzer |
@@ -209,7 +210,6 @@ Wird automatisch aus den [Veröffentlichungen](https://github.com/Vyrenbusiness-
 | [**1.0.186**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.186) | 24.10.2026 | KI Häuserkampf: Feuerschutz, Granate, Raum-für-Raum mit Zurufen, Funkmeldung „Haus frei“, neu ordnen statt Abbruch; Organ-Treffer auch an Liegenden |
 | [**1.0.185**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.185) | 24.10.2026 | 5 neue Westen (JPC, AVS, 6B45, Chest-Rig, Unterziehweste) mit Schutzzeile „Schützt/Seiten/Offen“; Rucksäcke ohne Durchdringungen |
 | [**1.0.184**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.184) | 24.10.2026 | KI: schießt auf nahe Feinde zuerst zurück statt Sandsäcke zu bauen |
-| [**1.0.183**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.183) | 24.10.2026 | Organ-Treffer (Hirn sofort tot, Herz nach Sekunden), Westen nach Fläche/Seitenschutz, Rucksack bremst von hinten; Panzer allein fahren und schießen; Basisfahrzeuge nur gegen Kaution (Sold-Exploit) |
 <!-- updates:de:end -->
 
 ## Mitwirkende und Lizenzen
