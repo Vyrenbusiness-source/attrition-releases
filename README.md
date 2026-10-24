@@ -144,6 +144,7 @@ Updated automatically from the [releases](https://github.com/Vyrenbusiness-sourc
 <!-- updates:en:start -->
 | Version | Date | What changed |
 |---|---|---|
+| [**1.0.178**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.178) | Oct 24, 2026 | Leistung: NPC-Waffen mit Detailstufen, Waffenschatten nur bis 60 m (−25 % Schatten-Dreiecke) |
 | [**1.0.177**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.177) | Oct 24, 2026 | Pistolen: echtes Handschuh-Handmodell (Blender) statt Klumpen |
 | [**1.0.176**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.176) | Oct 24, 2026 | Sanität: Schiene längs am Glied statt verschoben, Aderpresse-Knebel, Leisten-Druckverband, keine Handsprünge |
 | [**1.0.175**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.175) | Oct 24, 2026 | M9 mit Drei-Punkt-Visier, AKS-74U mit Seitenschiene (Kobra/1P63/PK-120) und PBS-4 |
@@ -151,7 +152,6 @@ Updated automatically from the [releases](https://github.com/Vyrenbusiness-sourc
 | [**1.0.173**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.173) | Oct 24, 2026 | 3 neue Waffen (AKS-74U, HK417A2, Beretta M9) mit Magazinen; Leichen/Bodenwaffen verschwinden nach 30–40 s, über 200 m oder außer Sicht sofort (nicht beim Plündern) |
 | [**1.0.172**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.172) | Oct 24, 2026 | Pistolen: Ego-Hände wieder wie vor dem Arm-Update |
 | [**1.0.171**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.171) | Oct 24, 2026 | Händler: Reiterleiste ohne Überlappung – alle Reiter (inkl. Magazine, Reparatur) passen, Texte nicht mehr abgeschnitten |
-| [**1.0.170**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.170) | Oct 23, 2026 | Händler: eigener Reiter „Magazine“ (wie bei Aufsätzen) |
 <!-- updates:en:end -->
 
 ## Credits and licenses
@@ -202,6 +202,7 @@ Wird automatisch aus den [Veröffentlichungen](https://github.com/Vyrenbusiness-
 <!-- updates:de:start -->
 | Version | Datum | Was ist neu |
 |---|---|---|
+| [**1.0.178**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.178) | 24.10.2026 | Leistung: NPC-Waffen mit Detailstufen, Waffenschatten nur bis 60 m (−25 % Schatten-Dreiecke) |
 | [**1.0.177**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.177) | 24.10.2026 | Pistolen: echtes Handschuh-Handmodell (Blender) statt Klumpen |
 | [**1.0.176**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.176) | 24.10.2026 | Sanität: Schiene längs am Glied statt verschoben, Aderpresse-Knebel, Leisten-Druckverband, keine Handsprünge |
 | [**1.0.175**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.175) | 24.10.2026 | M9 mit Drei-Punkt-Visier, AKS-74U mit Seitenschiene (Kobra/1P63/PK-120) und PBS-4 |
@@ -209,7 +210,6 @@ Wird automatisch aus den [Veröffentlichungen](https://github.com/Vyrenbusiness-
 | [**1.0.173**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.173) | 24.10.2026 | 3 neue Waffen (AKS-74U, HK417A2, Beretta M9) mit Magazinen; Leichen/Bodenwaffen verschwinden nach 30–40 s, über 200 m oder außer Sicht sofort (nicht beim Plündern) |
 | [**1.0.172**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.172) | 24.10.2026 | Pistolen: Ego-Hände wieder wie vor dem Arm-Update |
 | [**1.0.171**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.171) | 24.10.2026 | Händler: Reiterleiste ohne Überlappung – alle Reiter (inkl. Magazine, Reparatur) passen, Texte nicht mehr abgeschnitten |
-| [**1.0.170**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.170) | 23.10.2026 | Händler: eigener Reiter „Magazine“ (wie bei Aufsätzen) |
 <!-- updates:de:end -->
 
 ## Mitwirkende und Lizenzen
