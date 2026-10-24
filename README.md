@@ -144,6 +144,7 @@ Updated automatically from the [releases](https://github.com/Vyrenbusiness-sourc
 <!-- updates:en:start -->
 | Version | Date | What changed |
 |---|---|---|
+| [**1.0.177**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.177) | Oct 24, 2026 | Pistolen: echtes Handschuh-Handmodell (Blender) statt Klumpen |
 | [**1.0.176**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.176) | Oct 24, 2026 | Sanität: Schiene längs am Glied statt verschoben, Aderpresse-Knebel, Leisten-Druckverband, keine Handsprünge |
 | [**1.0.175**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.175) | Oct 24, 2026 | M9 mit Drei-Punkt-Visier, AKS-74U mit Seitenschiene (Kobra/1P63/PK-120) und PBS-4 |
 | [**1.0.174**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.174) | Oct 24, 2026 | 10 neue Rucksäcke, 5 neue Munitionsarten (Mk 262, 7U1, 7N14, .45 +P, Nr. 4 Buck); Rucksack-Symbole ohne schwebende Gurte |
@@ -151,7 +152,6 @@ Updated automatically from the [releases](https://github.com/Vyrenbusiness-sourc
 | [**1.0.172**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.172) | Oct 24, 2026 | Pistolen: Ego-Hände wieder wie vor dem Arm-Update |
 | [**1.0.171**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.171) | Oct 24, 2026 | Händler: Reiterleiste ohne Überlappung – alle Reiter (inkl. Magazine, Reparatur) passen, Texte nicht mehr abgeschnitten |
 | [**1.0.170**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.170) | Oct 23, 2026 | Händler: eigener Reiter „Magazine“ (wie bei Aufsätzen) |
-| [**1.0.169**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.169) | Oct 23, 2026 | WICHTIG: Abstürze im Gameplay behoben (Physikabfragen außerhalb des Physiktakts führten im Spiel zur Zugriffsverletzung) |
 <!-- updates:en:end -->
 
 ## Credits and licenses
@@ -202,6 +202,7 @@ Wird automatisch aus den [Veröffentlichungen](https://github.com/Vyrenbusiness-
 <!-- updates:de:start -->
 | Version | Datum | Was ist neu |
 |---|---|---|
+| [**1.0.177**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.177) | 24.10.2026 | Pistolen: echtes Handschuh-Handmodell (Blender) statt Klumpen |
 | [**1.0.176**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.176) | 24.10.2026 | Sanität: Schiene längs am Glied statt verschoben, Aderpresse-Knebel, Leisten-Druckverband, keine Handsprünge |
 | [**1.0.175**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.175) | 24.10.2026 | M9 mit Drei-Punkt-Visier, AKS-74U mit Seitenschiene (Kobra/1P63/PK-120) und PBS-4 |
 | [**1.0.174**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.174) | 24.10.2026 | 10 neue Rucksäcke, 5 neue Munitionsarten (Mk 262, 7U1, 7N14, .45 +P, Nr. 4 Buck); Rucksack-Symbole ohne schwebende Gurte |
@@ -209,7 +210,6 @@ Wird automatisch aus den [Veröffentlichungen](https://github.com/Vyrenbusiness-
 | [**1.0.172**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.172) | 24.10.2026 | Pistolen: Ego-Hände wieder wie vor dem Arm-Update |
 | [**1.0.171**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.171) | 24.10.2026 | Händler: Reiterleiste ohne Überlappung – alle Reiter (inkl. Magazine, Reparatur) passen, Texte nicht mehr abgeschnitten |
 | [**1.0.170**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.170) | 23.10.2026 | Händler: eigener Reiter „Magazine“ (wie bei Aufsätzen) |
-| [**1.0.169**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.169) | 23.10.2026 | WICHTIG: Abstürze im Gameplay behoben (Physikabfragen außerhalb des Physiktakts führten im Spiel zur Zugriffsverletzung) |
 <!-- updates:de:end -->
 
 ## Mitwirkende und Lizenzen
