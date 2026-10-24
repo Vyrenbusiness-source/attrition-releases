@@ -1,6 +1,8 @@
 <h1 align="center">ATTRITION – Free Hardcore Tactical FPS & Extraction Shooter for Windows</h1>
 
-<p align="center"><b>A free hardcore tactical FPS for Windows: take your own gear into a destructible voxel city, fight AI squads alone or in co-op, and lose it all if you don't make it back.</b></p>
+<p align="center"><b>A free, Tarkov-like extraction shooter for Windows: take your own gear into a fully destructible voxel city, fight hundreds of smart AI soldiers, tanks and drones alone, in co-op or PvP – and lose it all if you don't make it back.</b></p>
+
+<p align="center">✔ 100 % free · ✔ no account, no launcher, no ads · ✔ offline single-player + online co-op · ✔ auto-updates</p>
 
 <p align="center"><a href="https://github.com/Vyrenbusiness-source/attrition-releases/releases/latest/download/ATTRITION-Windows.zip"><img src="https://img.shields.io/badge/Download%20free%20(.zip)-Windows%2010%20%2F%2011-2ea44f?style=for-the-badge&logo=windows&logoColor=white" height="52" alt="Download ATTRITION for free (Windows zip)"></a></p>
 
@@ -159,6 +161,20 @@ Updated automatically from the [releases](https://github.com/Vyrenbusiness-sourc
 | [**1.0.208**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.208) | Oct 24, 2026 | Koop: Mitspieler-Figuren mit doppeltem bis dreifachem Sendetakt (flüssiger) |
 | [**1.0.207**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.207) | Oct 24, 2026 | Koop: Folgefehler bei Abschuss durch bereits abgebauten Schützen behoben |
 <!-- updates:en:end -->
+
+## FAQ
+
+**Is ATTRITION free?** Yes – completely free, no microtransactions, no account and no launcher. [Download the zip](https://github.com/Vyrenbusiness-source/attrition-releases/releases/latest/download/ATTRITION-Windows.zip), extract it and play.
+
+**Is it like Escape from Tarkov?** It shares the hardcore extraction loop: you risk your own gear, loot bodies, sell to traders and keep only what you bring home. On top of that the whole city is destructible and a war between four factions runs on without you.
+
+**Can I play solo / offline?** Yes. Single-player runs fully offline against AI squads. Co-op and PvP work over the internet or LAN.
+
+**What PC do I need?** Windows 10/11 (64-bit) and a dedicated GPU – see [System requirements](#system-requirements).
+
+**Is it safe? Windows shows a warning.** The game is not code-signed yet, so SmartScreen warns about an unknown publisher. Click *More info → Run anyway*. Every update is checked against a signature before it is installed.
+
+**Which language?** German for now, English is in progress. Menus and HUD are short and easy to use without German.
 
 ## Credits and licenses
 
