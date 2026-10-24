@@ -19,6 +19,8 @@
 <img src="https://img.shields.io/badge/engine-Godot%204-478CBF?style=flat-square" alt="Godot 4">
 </p>
 
+<p align="center"><img src="media/gameplay.gif" width="100%" alt="ATTRITION gameplay: anti-tank rocket fired from a window hits an enemy tank in a destructible city street"></p>
+
 <p align="center"><a href="https://www.youtube.com/watch?v=Mkiqu9hALas"><img src="https://img.youtube.com/vi/Mkiqu9hALas/maxresdefault.jpg" width="100%" alt="Watch the ATTRITION trailer on YouTube"></a><br><sub>▶ <a href="https://www.youtube.com/watch?v=Mkiqu9hALas">Watch the trailer on YouTube</a></sub></p>
 
 <p align="center"><a href="#latest-updates">Latest updates</a> · <a href="CONTRIBUTING.md">Report a bug</a></p>
