@@ -1,8 +1,13 @@
-<h1 align="center">ATTRITION</h1>
+<h1 align="center">ATTRITION – Free Hardcore Tactical FPS & Extraction Shooter for Windows</h1>
 
 <p align="center"><b>A free hardcore tactical FPS for Windows: take your own gear into a destructible voxel city, fight AI squads alone or in co-op, and lose it all if you don't make it back.</b></p>
 
-<p align="center"><a href="https://github.com/Vyrenbusiness-source/attrition-releases/releases/latest"><img src="https://img.shields.io/badge/Download%20free-Windows%2010%20%2F%2011-2ea44f?style=for-the-badge&logo=windows&logoColor=white" height="52" alt="Download ATTRITION for free"></a></p>
+<p align="center"><a href="https://github.com/Vyrenbusiness-source/attrition-releases/releases/latest/download/ATTRITION-Windows.zip"><img src="https://img.shields.io/badge/Download%20free%20(.zip)-Windows%2010%20%2F%2011-2ea44f?style=for-the-badge&logo=windows&logoColor=white" height="52" alt="Download ATTRITION for free (Windows zip)"></a></p>
+
+<p align="center"><b>How to install (1 minute):</b> ① click the green button to download <code>ATTRITION-Windows.zip</code> · ② right-click → <i>Extract All</i> · ③ open the folder and start <code>ATTRITION.exe</code>. Updates install automatically.<br>
+<sub>Windows may show “Windows protected your PC” – click <i>More info → Run anyway</i> (the game is not code-signed yet). Ignore the many single files on the release page – they are only for the auto-updater.</sub></p>
+
+<p align="center"><sub>🇩🇪 <b>Installieren:</b> grünen Button klicken → ZIP entpacken (Rechtsklick → <i>Alle extrahieren</i>) → <code>ATTRITION.exe</code> starten. Updates kommen automatisch.</sub></p>
 
 <p align="center">
 <a href="https://github.com/Vyrenbusiness-source/attrition-releases/releases/latest"><img src="https://img.shields.io/github/v/release/Vyrenbusiness-source/attrition-releases?label=version&style=flat-square&color=e8a33d" alt="Latest version"></a>
