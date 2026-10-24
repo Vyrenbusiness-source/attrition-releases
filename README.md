@@ -144,6 +144,7 @@ Updated automatically from the [releases](https://github.com/Vyrenbusiness-sourc
 <!-- updates:en:start -->
 | Version | Date | What changed |
 |---|---|---|
+| [**1.0.208**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.208) | Oct 24, 2026 | Koop: Mitspieler-Figuren mit doppeltem bis dreifachem Sendetakt (flüssiger) |
 | [**1.0.207**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.207) | Oct 24, 2026 | Koop: Folgefehler bei Abschuss durch bereits abgebauten Schützen behoben |
 | [**1.0.206**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.206) | Oct 24, 2026 | PvP: alle Aufsätze und Ausrüstung wählbar |
 | [**1.0.205**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.205) | Oct 24, 2026 | Bäume: Stämme mit Krone auch in der Ferne, Zweige dunkel und schräg, dichtere Nadelbäume |
@@ -151,7 +152,6 @@ Updated automatically from the [releases](https://github.com/Vyrenbusiness-sourc
 | [**1.0.203**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.203) | Oct 24, 2026 | KI: Meldungen fast sofort (Funk 1–8 s), Todeszonen trupp-übergreifend (Fensterschütze, Funkstille, Nachbarn sehen Gefallene), Vorgehen im Wechsel über offenes Gelände, Beobachter suchen Deckung |
 | [**1.0.202**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.202) | Oct 24, 2026 | Nahe Schüsse präsenter und trockener (klingen nicht mehr wie aus der Ferne); Panzer-Meldekette bei allen Startwerten |
 | [**1.0.201**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.201) | Oct 24, 2026 | Zielfernrohre: Auge nicht mehr im Rohr (SV-98 schwarz behoben, auch HK417/SCAR-H mit ZF 3-15x) |
-| [**1.0.200**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.200) | Oct 24, 2026 | Händler: alles immer kaufbar (keine Stufen-Sperren mehr) |
 <!-- updates:en:end -->
 
 ## Credits and licenses
@@ -202,6 +202,7 @@ Wird automatisch aus den [Veröffentlichungen](https://github.com/Vyrenbusiness-
 <!-- updates:de:start -->
 | Version | Datum | Was ist neu |
 |---|---|---|
+| [**1.0.208**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.208) | 24.10.2026 | Koop: Mitspieler-Figuren mit doppeltem bis dreifachem Sendetakt (flüssiger) |
 | [**1.0.207**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.207) | 24.10.2026 | Koop: Folgefehler bei Abschuss durch bereits abgebauten Schützen behoben |
 | [**1.0.206**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.206) | 24.10.2026 | PvP: alle Aufsätze und Ausrüstung wählbar |
 | [**1.0.205**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.205) | 24.10.2026 | Bäume: Stämme mit Krone auch in der Ferne, Zweige dunkel und schräg, dichtere Nadelbäume |
@@ -209,7 +210,6 @@ Wird automatisch aus den [Veröffentlichungen](https://github.com/Vyrenbusiness-
 | [**1.0.203**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.203) | 24.10.2026 | KI: Meldungen fast sofort (Funk 1–8 s), Todeszonen trupp-übergreifend (Fensterschütze, Funkstille, Nachbarn sehen Gefallene), Vorgehen im Wechsel über offenes Gelände, Beobachter suchen Deckung |
 | [**1.0.202**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.202) | 24.10.2026 | Nahe Schüsse präsenter und trockener (klingen nicht mehr wie aus der Ferne); Panzer-Meldekette bei allen Startwerten |
 | [**1.0.201**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.201) | 24.10.2026 | Zielfernrohre: Auge nicht mehr im Rohr (SV-98 schwarz behoben, auch HK417/SCAR-H mit ZF 3-15x) |
-| [**1.0.200**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.200) | 24.10.2026 | Händler: alles immer kaufbar (keine Stufen-Sperren mehr) |
 <!-- updates:de:end -->
 
 ## Mitwirkende und Lizenzen
