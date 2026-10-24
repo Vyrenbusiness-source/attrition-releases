@@ -144,6 +144,7 @@ Updated automatically from the [releases](https://github.com/Vyrenbusiness-sourc
 <!-- updates:en:start -->
 | Version | Date | What changed |
 |---|---|---|
+| [**1.0.182**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.182) | Oct 24, 2026 | Fehlerbehebungen (Instanzpuffer voll durch KI-Körper-Shader, Physikraum-Meldungen); Hubschrauber mit Fern-Version (−75 % Dreiecke ab 300 m) |
 | [**1.0.181**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.181) | Oct 24, 2026 | Bewegung wie Tarkov: Trägheit nach Gewicht, Sprint nur vorwärts, Armausdauer, Schritttempo Alt+Mausrad |
 | [**1.0.180**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.180) | Oct 24, 2026 | Markt-Aktionen: 1–3 Angebote je Runde (−15–35 %, begrenzter Vorrat), Abzeichen und Leiste „Heute im Angebot“ |
 | [**1.0.179**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.179) | Oct 24, 2026 | Waffen beim Zielen nicht mehr fast schwarz: Himmelsspiegelung für die Ego-Waffe |
@@ -151,7 +152,6 @@ Updated automatically from the [releases](https://github.com/Vyrenbusiness-sourc
 | [**1.0.177**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.177) | Oct 24, 2026 | Pistolen: echtes Handschuh-Handmodell (Blender) statt Klumpen |
 | [**1.0.176**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.176) | Oct 24, 2026 | Sanität: Schiene längs am Glied statt verschoben, Aderpresse-Knebel, Leisten-Druckverband, keine Handsprünge |
 | [**1.0.175**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.175) | Oct 24, 2026 | M9 mit Drei-Punkt-Visier, AKS-74U mit Seitenschiene (Kobra/1P63/PK-120) und PBS-4 |
-| [**1.0.174**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.174) | Oct 24, 2026 | 10 neue Rucksäcke, 5 neue Munitionsarten (Mk 262, 7U1, 7N14, .45 +P, Nr. 4 Buck); Rucksack-Symbole ohne schwebende Gurte |
 <!-- updates:en:end -->
 
 ## Credits and licenses
@@ -202,6 +202,7 @@ Wird automatisch aus den [Veröffentlichungen](https://github.com/Vyrenbusiness-
 <!-- updates:de:start -->
 | Version | Datum | Was ist neu |
 |---|---|---|
+| [**1.0.182**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.182) | 24.10.2026 | Fehlerbehebungen (Instanzpuffer voll durch KI-Körper-Shader, Physikraum-Meldungen); Hubschrauber mit Fern-Version (−75 % Dreiecke ab 300 m) |
 | [**1.0.181**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.181) | 24.10.2026 | Bewegung wie Tarkov: Trägheit nach Gewicht, Sprint nur vorwärts, Armausdauer, Schritttempo Alt+Mausrad |
 | [**1.0.180**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.180) | 24.10.2026 | Markt-Aktionen: 1–3 Angebote je Runde (−15–35 %, begrenzter Vorrat), Abzeichen und Leiste „Heute im Angebot“ |
 | [**1.0.179**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.179) | 24.10.2026 | Waffen beim Zielen nicht mehr fast schwarz: Himmelsspiegelung für die Ego-Waffe |
@@ -209,7 +210,6 @@ Wird automatisch aus den [Veröffentlichungen](https://github.com/Vyrenbusiness-
 | [**1.0.177**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.177) | 24.10.2026 | Pistolen: echtes Handschuh-Handmodell (Blender) statt Klumpen |
 | [**1.0.176**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.176) | 24.10.2026 | Sanität: Schiene längs am Glied statt verschoben, Aderpresse-Knebel, Leisten-Druckverband, keine Handsprünge |
 | [**1.0.175**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.175) | 24.10.2026 | M9 mit Drei-Punkt-Visier, AKS-74U mit Seitenschiene (Kobra/1P63/PK-120) und PBS-4 |
-| [**1.0.174**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.174) | 24.10.2026 | 10 neue Rucksäcke, 5 neue Munitionsarten (Mk 262, 7U1, 7N14, .45 +P, Nr. 4 Buck); Rucksack-Symbole ohne schwebende Gurte |
 <!-- updates:de:end -->
 
 ## Mitwirkende und Lizenzen
