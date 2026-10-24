@@ -23,6 +23,8 @@
 
 <p align="center"><a href="#latest-updates">Latest updates</a> · <a href="CONTRIBUTING.md">Report a bug</a></p>
 
+<p align="center">⭐ <b>Like it? Star the repo</b> – it helps other players find the game and keeps updates coming.</p>
+
 > [!IMPORTANT]
 > **Early alpha – expect bugs and frequent updates.** New versions often ship several times a day, and the game installs them by itself.
 >
@@ -32,7 +34,7 @@
 
 <a id="english"></a>
 
-## About the game
+## 🎯 About the game
 
 You are one soldier in a war that keeps going without you. Four factions fight over a city with hundreds of AI soldiers, tanks, helicopters and drones, and every wall can be shot through or blown apart.
 
@@ -40,7 +42,7 @@ What you take into a fight is yours to lose. You draw a free standard kit, or yo
 
 <p align="center"><img src="media/hero.jpg" width="100%" alt="ATTRITION – soldier on a rooftop over a burning city at night"></p>
 
-## Features
+## ✨ Features
 
 <table>
 <tr>
@@ -64,7 +66,7 @@ What you take into a fight is yours to lose. You draw a free standard kit, or yo
 </tr>
 </table>
 
-## Simulated like the real thing
+## 🔬 Simulated like the real thing
 
 ATTRITION models the things that decide real firefights instead of hit points and health bars:
 
@@ -89,7 +91,7 @@ ATTRITION models the things that decide real firefights instead of hit points an
 
 Weapon sound comes from real recordings, with several variations per shot. Distant shots arrive with the delay of the speed of sound: first the crack, then the report.
 
-## Game modes
+## 🎮 Game modes
 
 | Mode | |
 |---|---|
@@ -99,7 +101,7 @@ Weapon sound comes from real recordings, with several variations per shot. Dista
 | **Co-op** | Two players together in the same war, with shared looting and recovery of a fallen friend's gear. |
 | **PvP** | Players only, two teams, up to four players. No gear loss in PvP. |
 
-## Content
+## 📦 Content
 
 | | |
 |---|---|
@@ -113,7 +115,7 @@ Weapon sound comes from real recordings, with several variations per shot. Dista
 | Factions | 4 |
 | Field ranks | 5 (up to lieutenant) |
 
-## System requirements
+## 💻 System requirements
 
 | | |
 |---|---|
@@ -122,7 +124,7 @@ Weapon sound comes from real recordings, with several variations per shot. Dista
 | **Recommended (tested)** | AMD Ryzen 7 7800X3D · NVIDIA GeForce RTX 5070 · 32 GB RAM, aiming for 144 fps on Ultra |
 | Older PCs | Use the Medium or Low quality preset |
 
-## Download and updates
+## ⬇️ Download and updates
 
 1. Download **[ATTRITION-Windows.zip](https://github.com/Vyrenbusiness-source/attrition-releases/releases/latest/download/ATTRITION-Windows.zip)** (one file, ~95 MB).
 2. Right-click the zip → **Extract All**.
@@ -130,7 +132,7 @@ Weapon sound comes from real recordings, with several variations per shot. Dista
 
 After that the game updates itself. It checks this page at start and in the main menu, downloads only changed files and checks their signature before installing.
 
-## Controls
+## ⌨️ Controls
 
 | Key | Action | Key | Action |
 |---|---|---|---|
@@ -145,7 +147,7 @@ All keys can be rebound in the settings.
 
 <a id="latest-updates"></a>
 
-## Latest updates
+## 🆕 Latest updates
 
 Updated automatically from the [releases](https://github.com/Vyrenbusiness-source/attrition-releases/releases). Release notes are written in German.
 
@@ -162,7 +164,7 @@ Updated automatically from the [releases](https://github.com/Vyrenbusiness-sourc
 | [**1.0.207**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.207) | Oct 24, 2026 | Koop: Folgefehler bei Abschuss durch bereits abgebauten Schützen behoben |
 <!-- updates:en:end -->
 
-## FAQ
+## ❓ FAQ
 
 **Is ATTRITION free?** Yes – completely free, no microtransactions, no account and no launcher. [Download the zip](https://github.com/Vyrenbusiness-source/attrition-releases/releases/latest/download/ATTRITION-Windows.zip), extract it and play.
 
@@ -170,21 +172,23 @@ Updated automatically from the [releases](https://github.com/Vyrenbusiness-sourc
 
 **Can I play solo / offline?** Yes. Single-player runs fully offline against AI squads. Co-op and PvP work over the internet or LAN.
 
-**What PC do I need?** Windows 10/11 (64-bit) and a dedicated GPU – see [System requirements](#system-requirements).
+**What PC do I need?** Windows 10/11 (64-bit) and a dedicated GPU – see [System requirements](#-system-requirements).
 
 **Is it safe? Windows shows a warning.** The game is not code-signed yet, so SmartScreen warns about an unknown publisher. Click *More info → Run anyway*. Every update is checked against a signature before it is installed.
 
 **Which language?** German for now, English is in progress. Menus and HUD are short and easy to use without German.
 
-## Credits and licenses
+## 📜 Credits and licenses
 
 Made with the [Godot Engine](https://godotengine.org) (MIT). Weapon, vehicle and ambient sounds are real recordings: free recordings under CC0, CC BY or public domain, plus purchased sound packs. Every source is credited in the game under *Mitwirkende & Lizenzen*.
 
-## Share it, stream it
+## 📣 Share it, stream it
 
 ATTRITION is free, and you are welcome to pass it on. You may share the unmodified game files for free, mirror or re-upload them, and make videos, Let's Plays and streams, monetized or not. You may not sell the game or release a modified version as your own game. All rights stay with the developer, and third-party sounds and textures keep their own licenses. Details are in the [LICENSE](LICENSE).
 
 Found a bug or have an idea? Open an [issue](https://github.com/Vyrenbusiness-source/attrition-releases/issues/new/choose); [CONTRIBUTING](CONTRIBUTING.md) explains what helps most.
+
+<p align="center">⭐ If you enjoyed ATTRITION, <b>star this repo</b> and share it with a friend you want to play co-op with.</p>
 
 ---
 
