@@ -144,6 +144,7 @@ Updated automatically from the [releases](https://github.com/Vyrenbusiness-sourc
 <!-- updates:en:start -->
 | Version | Date | What changed |
 |---|---|---|
+| [**1.0.205**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.205) | Oct 24, 2026 | Bäume: Stämme mit Krone auch in der Ferne, Zweige dunkel und schräg, dichtere Nadelbäume |
 | [**1.0.204**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.204) | Oct 24, 2026 | Bäume: Laub hängt an Ästen statt zu schweben, Kiefern mit Krone; Ego-Waffe bei Sonne dunkelgrau statt milchig weiß |
 | [**1.0.203**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.203) | Oct 24, 2026 | KI: Meldungen fast sofort (Funk 1–8 s), Todeszonen trupp-übergreifend (Fensterschütze, Funkstille, Nachbarn sehen Gefallene), Vorgehen im Wechsel über offenes Gelände, Beobachter suchen Deckung |
 | [**1.0.202**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.202) | Oct 24, 2026 | Nahe Schüsse präsenter und trockener (klingen nicht mehr wie aus der Ferne); Panzer-Meldekette bei allen Startwerten |
@@ -151,7 +152,6 @@ Updated automatically from the [releases](https://github.com/Vyrenbusiness-sourc
 | [**1.0.200**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.200) | Oct 24, 2026 | Händler: alles immer kaufbar (keine Stufen-Sperren mehr) |
 | [**1.0.199**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.199) | Oct 24, 2026 | KI flankiert aktiv (Feuergruppe hält nieder, Manövergruppe umgeht gedeckt, Zurufe), steht seltener ungedeckt (Plätze an Deckung) |
 | [**1.0.198**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.198) | Oct 24, 2026 | KI: läuft nicht mehr in denselben Todesweg (Deckung, Feuerrichtung, Umweg), Beobachtungssektoren im Trupp mit sichtbarem Umsehen, realistische Sichtweite (500 m bewegt, Fernglas 900 m) |
-| [**1.0.197**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.197) | Oct 24, 2026 | Licht/Himmel: kein milchiges/ausgebranntes Bild mehr (Kontrast, Glow-Schwelle, Auto-Belichtung begrenzt), kleinere Sonne, Wolken mit Licht/Schatten, kein Banding |
 <!-- updates:en:end -->
 
 ## Credits and licenses
@@ -202,6 +202,7 @@ Wird automatisch aus den [Veröffentlichungen](https://github.com/Vyrenbusiness-
 <!-- updates:de:start -->
 | Version | Datum | Was ist neu |
 |---|---|---|
+| [**1.0.205**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.205) | 24.10.2026 | Bäume: Stämme mit Krone auch in der Ferne, Zweige dunkel und schräg, dichtere Nadelbäume |
 | [**1.0.204**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.204) | 24.10.2026 | Bäume: Laub hängt an Ästen statt zu schweben, Kiefern mit Krone; Ego-Waffe bei Sonne dunkelgrau statt milchig weiß |
 | [**1.0.203**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.203) | 24.10.2026 | KI: Meldungen fast sofort (Funk 1–8 s), Todeszonen trupp-übergreifend (Fensterschütze, Funkstille, Nachbarn sehen Gefallene), Vorgehen im Wechsel über offenes Gelände, Beobachter suchen Deckung |
 | [**1.0.202**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.202) | 24.10.2026 | Nahe Schüsse präsenter und trockener (klingen nicht mehr wie aus der Ferne); Panzer-Meldekette bei allen Startwerten |
@@ -209,7 +210,6 @@ Wird automatisch aus den [Veröffentlichungen](https://github.com/Vyrenbusiness-
 | [**1.0.200**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.200) | 24.10.2026 | Händler: alles immer kaufbar (keine Stufen-Sperren mehr) |
 | [**1.0.199**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.199) | 24.10.2026 | KI flankiert aktiv (Feuergruppe hält nieder, Manövergruppe umgeht gedeckt, Zurufe), steht seltener ungedeckt (Plätze an Deckung) |
 | [**1.0.198**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.198) | 24.10.2026 | KI: läuft nicht mehr in denselben Todesweg (Deckung, Feuerrichtung, Umweg), Beobachtungssektoren im Trupp mit sichtbarem Umsehen, realistische Sichtweite (500 m bewegt, Fernglas 900 m) |
-| [**1.0.197**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.197) | 24.10.2026 | Licht/Himmel: kein milchiges/ausgebranntes Bild mehr (Kontrast, Glow-Schwelle, Auto-Belichtung begrenzt), kleinere Sonne, Wolken mit Licht/Schatten, kein Banding |
 <!-- updates:de:end -->
 
 ## Mitwirkende und Lizenzen
