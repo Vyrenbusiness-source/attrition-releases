@@ -144,6 +144,7 @@ Updated automatically from the [releases](https://github.com/Vyrenbusiness-sourc
 <!-- updates:en:start -->
 | Version | Date | What changed |
 |---|---|---|
+| [**1.0.214**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.214) | Oct 24, 2026 | Download: ATTRITION-Windows.zip → entpacken → ATTRITION.exe starten (Updates kommen danach automatisch). Die übrigen Einzeldateien braucht nur der automatische Updater. |
 | [**1.0.213**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.213) | Oct 24, 2026 | Einnahmen aus dem Spiel doppelt (Abschüsse, Aufträge, Ziele …) |
 | [**1.0.212**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.212) | Oct 24, 2026 | Schüsse mit deutlich mehr Bass und Tiefe von der Mündung |
 | [**1.0.211**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.211) | Oct 24, 2026 | Respawn nach Tod im Heli: wieder laufen/schießen; keine Bodentasche mehr beim Einsatz; Abhol-Heli kommt immer (notfalls neu an der Basis) |
@@ -151,7 +152,6 @@ Updated automatically from the [releases](https://github.com/Vyrenbusiness-sourc
 | [**1.0.209**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.209) | Oct 24, 2026 | Startguthaben 30.000 Sold für neue Spieler |
 | [**1.0.208**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.208) | Oct 24, 2026 | Koop: Mitspieler-Figuren mit doppeltem bis dreifachem Sendetakt (flüssiger) |
 | [**1.0.207**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.207) | Oct 24, 2026 | Koop: Folgefehler bei Abschuss durch bereits abgebauten Schützen behoben |
-| [**1.0.206**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.206) | Oct 24, 2026 | PvP: alle Aufsätze und Ausrüstung wählbar |
 <!-- updates:en:end -->
 
 ## Credits and licenses
@@ -202,6 +202,7 @@ Wird automatisch aus den [Veröffentlichungen](https://github.com/Vyrenbusiness-
 <!-- updates:de:start -->
 | Version | Datum | Was ist neu |
 |---|---|---|
+| [**1.0.214**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.214) | 24.10.2026 | Download: ATTRITION-Windows.zip → entpacken → ATTRITION.exe starten (Updates kommen danach automatisch). Die übrigen Einzeldateien braucht nur der automatische Updater. |
 | [**1.0.213**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.213) | 24.10.2026 | Einnahmen aus dem Spiel doppelt (Abschüsse, Aufträge, Ziele …) |
 | [**1.0.212**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.212) | 24.10.2026 | Schüsse mit deutlich mehr Bass und Tiefe von der Mündung |
 | [**1.0.211**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.211) | 24.10.2026 | Respawn nach Tod im Heli: wieder laufen/schießen; keine Bodentasche mehr beim Einsatz; Abhol-Heli kommt immer (notfalls neu an der Basis) |
@@ -209,7 +210,6 @@ Wird automatisch aus den [Veröffentlichungen](https://github.com/Vyrenbusiness-
 | [**1.0.209**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.209) | 24.10.2026 | Startguthaben 30.000 Sold für neue Spieler |
 | [**1.0.208**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.208) | 24.10.2026 | Koop: Mitspieler-Figuren mit doppeltem bis dreifachem Sendetakt (flüssiger) |
 | [**1.0.207**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.207) | 24.10.2026 | Koop: Folgefehler bei Abschuss durch bereits abgebauten Schützen behoben |
-| [**1.0.206**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.206) | 24.10.2026 | PvP: alle Aufsätze und Ausrüstung wählbar |
 <!-- updates:de:end -->
 
 ## Mitwirkende und Lizenzen
