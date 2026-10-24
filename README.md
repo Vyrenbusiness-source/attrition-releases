@@ -144,6 +144,7 @@ Updated automatically from the [releases](https://github.com/Vyrenbusiness-sourc
 <!-- updates:en:start -->
 | Version | Date | What changed |
 |---|---|---|
+| [**1.0.198**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.198) | Oct 24, 2026 | KI: läuft nicht mehr in denselben Todesweg (Deckung, Feuerrichtung, Umweg), Beobachtungssektoren im Trupp mit sichtbarem Umsehen, realistische Sichtweite (500 m bewegt, Fernglas 900 m) |
 | [**1.0.197**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.197) | Oct 24, 2026 | Licht/Himmel: kein milchiges/ausgebranntes Bild mehr (Kontrast, Glow-Schwelle, Auto-Belichtung begrenzt), kleinere Sonne, Wolken mit Licht/Schatten, kein Banding |
 | [**1.0.196**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.196) | Oct 24, 2026 | Ferne Schüsse mit mehr Wucht (600 m nur ~3 dB unter 200 m), Drohnenexplosionen mit kurzem Bass-Druckschlag |
 | [**1.0.195**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.195) | Oct 24, 2026 | Bordwaffen-Streuung realistisch (MG auf Fahrzeugen viel genauer); Brustgehänge und Raketenrohre neu modelliert, 53 Symbole ohne schwebende Teile |
@@ -151,7 +152,6 @@ Updated automatically from the [releases](https://github.com/Vyrenbusiness-sourc
 | [**1.0.193**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.193) | Oct 24, 2026 | Abhol-Heli mit zwei Türschützen (PKM/MG3): schießen nur auf gesehene Feinde, halten die LZ nieder, nie auf Eigene |
 | [**1.0.192**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.192) | Oct 24, 2026 | KI: Panzerabwehrschütze geht gedeckt in die Flanke, Feuerschutz wieder im Feuerstoß-Takt (feuerte jeden Frame), kein Gewehrfeuer auf gemeldete Panzer, Nachbartrupp-Anforderung |
 | [**1.0.191**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.191) | Oct 24, 2026 | KI im Freien: Zielansprache mit Richtung/Entfernung/Gelände, „Ich gehe!“/„Gedeckt!“, Halt an echter Deckung statt frei stehen; Horchen an der Tür nur noch auf echte Geräusche |
-| [**1.0.190**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.190) | Oct 24, 2026 | Heli-Abholung zur Basis: mittlere Maustaste → Abholung (2.500–4.000 Sold), grüner Rauch, Ausrüstung kommt in den Spind |
 <!-- updates:en:end -->
 
 ## Credits and licenses
@@ -202,6 +202,7 @@ Wird automatisch aus den [Veröffentlichungen](https://github.com/Vyrenbusiness-
 <!-- updates:de:start -->
 | Version | Datum | Was ist neu |
 |---|---|---|
+| [**1.0.198**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.198) | 24.10.2026 | KI: läuft nicht mehr in denselben Todesweg (Deckung, Feuerrichtung, Umweg), Beobachtungssektoren im Trupp mit sichtbarem Umsehen, realistische Sichtweite (500 m bewegt, Fernglas 900 m) |
 | [**1.0.197**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.197) | 24.10.2026 | Licht/Himmel: kein milchiges/ausgebranntes Bild mehr (Kontrast, Glow-Schwelle, Auto-Belichtung begrenzt), kleinere Sonne, Wolken mit Licht/Schatten, kein Banding |
 | [**1.0.196**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.196) | 24.10.2026 | Ferne Schüsse mit mehr Wucht (600 m nur ~3 dB unter 200 m), Drohnenexplosionen mit kurzem Bass-Druckschlag |
 | [**1.0.195**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.195) | 24.10.2026 | Bordwaffen-Streuung realistisch (MG auf Fahrzeugen viel genauer); Brustgehänge und Raketenrohre neu modelliert, 53 Symbole ohne schwebende Teile |
@@ -209,7 +210,6 @@ Wird automatisch aus den [Veröffentlichungen](https://github.com/Vyrenbusiness-
 | [**1.0.193**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.193) | 24.10.2026 | Abhol-Heli mit zwei Türschützen (PKM/MG3): schießen nur auf gesehene Feinde, halten die LZ nieder, nie auf Eigene |
 | [**1.0.192**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.192) | 24.10.2026 | KI: Panzerabwehrschütze geht gedeckt in die Flanke, Feuerschutz wieder im Feuerstoß-Takt (feuerte jeden Frame), kein Gewehrfeuer auf gemeldete Panzer, Nachbartrupp-Anforderung |
 | [**1.0.191**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.191) | 24.10.2026 | KI im Freien: Zielansprache mit Richtung/Entfernung/Gelände, „Ich gehe!“/„Gedeckt!“, Halt an echter Deckung statt frei stehen; Horchen an der Tür nur noch auf echte Geräusche |
-| [**1.0.190**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.190) | 24.10.2026 | Heli-Abholung zur Basis: mittlere Maustaste → Abholung (2.500–4.000 Sold), grüner Rauch, Ausrüstung kommt in den Spind |
 <!-- updates:de:end -->
 
 ## Mitwirkende und Lizenzen
