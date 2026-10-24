@@ -144,6 +144,7 @@ Updated automatically from the [releases](https://github.com/Vyrenbusiness-sourc
 <!-- updates:en:start -->
 | Version | Date | What changed |
 |---|---|---|
+| [**1.0.210**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.210) | Oct 24, 2026 | Koop: Server-Absturz beim Wiederverwenden von Soldatenfiguren behoben (Verbindung verloren / nach Tod festgehangen) |
 | [**1.0.209**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.209) | Oct 24, 2026 | Startguthaben 30.000 Sold für neue Spieler |
 | [**1.0.208**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.208) | Oct 24, 2026 | Koop: Mitspieler-Figuren mit doppeltem bis dreifachem Sendetakt (flüssiger) |
 | [**1.0.207**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.207) | Oct 24, 2026 | Koop: Folgefehler bei Abschuss durch bereits abgebauten Schützen behoben |
@@ -151,7 +152,6 @@ Updated automatically from the [releases](https://github.com/Vyrenbusiness-sourc
 | [**1.0.205**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.205) | Oct 24, 2026 | Bäume: Stämme mit Krone auch in der Ferne, Zweige dunkel und schräg, dichtere Nadelbäume |
 | [**1.0.204**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.204) | Oct 24, 2026 | Bäume: Laub hängt an Ästen statt zu schweben, Kiefern mit Krone; Ego-Waffe bei Sonne dunkelgrau statt milchig weiß |
 | [**1.0.203**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.203) | Oct 24, 2026 | KI: Meldungen fast sofort (Funk 1–8 s), Todeszonen trupp-übergreifend (Fensterschütze, Funkstille, Nachbarn sehen Gefallene), Vorgehen im Wechsel über offenes Gelände, Beobachter suchen Deckung |
-| [**1.0.202**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.202) | Oct 24, 2026 | Nahe Schüsse präsenter und trockener (klingen nicht mehr wie aus der Ferne); Panzer-Meldekette bei allen Startwerten |
 <!-- updates:en:end -->
 
 ## Credits and licenses
@@ -202,6 +202,7 @@ Wird automatisch aus den [Veröffentlichungen](https://github.com/Vyrenbusiness-
 <!-- updates:de:start -->
 | Version | Datum | Was ist neu |
 |---|---|---|
+| [**1.0.210**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.210) | 24.10.2026 | Koop: Server-Absturz beim Wiederverwenden von Soldatenfiguren behoben (Verbindung verloren / nach Tod festgehangen) |
 | [**1.0.209**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.209) | 24.10.2026 | Startguthaben 30.000 Sold für neue Spieler |
 | [**1.0.208**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.208) | 24.10.2026 | Koop: Mitspieler-Figuren mit doppeltem bis dreifachem Sendetakt (flüssiger) |
 | [**1.0.207**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.207) | 24.10.2026 | Koop: Folgefehler bei Abschuss durch bereits abgebauten Schützen behoben |
@@ -209,7 +210,6 @@ Wird automatisch aus den [Veröffentlichungen](https://github.com/Vyrenbusiness-
 | [**1.0.205**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.205) | 24.10.2026 | Bäume: Stämme mit Krone auch in der Ferne, Zweige dunkel und schräg, dichtere Nadelbäume |
 | [**1.0.204**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.204) | 24.10.2026 | Bäume: Laub hängt an Ästen statt zu schweben, Kiefern mit Krone; Ego-Waffe bei Sonne dunkelgrau statt milchig weiß |
 | [**1.0.203**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.203) | 24.10.2026 | KI: Meldungen fast sofort (Funk 1–8 s), Todeszonen trupp-übergreifend (Fensterschütze, Funkstille, Nachbarn sehen Gefallene), Vorgehen im Wechsel über offenes Gelände, Beobachter suchen Deckung |
-| [**1.0.202**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.202) | 24.10.2026 | Nahe Schüsse präsenter und trockener (klingen nicht mehr wie aus der Ferne); Panzer-Meldekette bei allen Startwerten |
 <!-- updates:de:end -->
 
 ## Mitwirkende und Lizenzen
