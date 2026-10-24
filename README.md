@@ -7,7 +7,6 @@
 <p align="center"><b>How to install (1 minute):</b> ① click the green button to download <code>ATTRITION-Windows.zip</code> · ② right-click → <i>Extract All</i> · ③ open the folder and start <code>ATTRITION.exe</code>. Updates install automatically.<br>
 <sub>Windows may show “Windows protected your PC” – click <i>More info → Run anyway</i> (the game is not code-signed yet). Ignore the many single files on the release page – they are only for the auto-updater.</sub></p>
 
-<p align="center"><sub>🇩🇪 <b>Installieren:</b> grünen Button klicken → ZIP entpacken (Rechtsklick → <i>Alle extrahieren</i>) → <code>ATTRITION.exe</code> starten. Updates kommen automatisch.</sub></p>
 
 <p align="center">
 <a href="https://github.com/Vyrenbusiness-source/attrition-releases/releases/latest"><img src="https://img.shields.io/github/v/release/Vyrenbusiness-source/attrition-releases?label=version&style=flat-square&color=e8a33d" alt="Latest version"></a>
@@ -20,7 +19,7 @@
 
 <p align="center"><a href="https://www.youtube.com/watch?v=Mkiqu9hALas"><img src="https://img.youtube.com/vi/Mkiqu9hALas/maxresdefault.jpg" width="100%" alt="Watch the ATTRITION trailer on YouTube"></a><br><sub>▶ <a href="https://www.youtube.com/watch?v=Mkiqu9hALas">Watch the trailer on YouTube</a></sub></p>
 
-<p align="center"><a href="#english">English</a> · <a href="#deutsch">Deutsch</a> · <a href="#latest-updates">Latest updates</a> · <a href="#neueste-updates">Neueste Updates</a> · <a href="CONTRIBUTING.md">Report a bug</a></p>
+<p align="center"><a href="#latest-updates">Latest updates</a> · <a href="CONTRIBUTING.md">Report a bug</a></p>
 
 > [!IMPORTANT]
 > **Early alpha – expect bugs and frequent updates.** New versions often ship several times a day, and the game installs them by itself.
@@ -123,9 +122,9 @@ Weapon sound comes from real recordings, with several variations per shot. Dista
 
 ## Download and updates
 
-1. Open the [latest release](https://github.com/Vyrenbusiness-source/attrition-releases/releases/latest).
-2. Download all files of that release (`ATTRITION.exe`, `ATTRITION.pck` and the `.dll` files) into one folder.
-3. Start `ATTRITION.exe`.
+1. Download **[ATTRITION-Windows.zip](https://github.com/Vyrenbusiness-source/attrition-releases/releases/latest/download/ATTRITION-Windows.zip)** (one file, ~95 MB).
+2. Right-click the zip → **Extract All**.
+3. Open the extracted folder and start `ATTRITION.exe`. If Windows shows “Windows protected your PC”, click **More info → Run anyway** (the game is not code-signed yet).
 
 After that the game updates itself. It checks this page at start and in the main menu, downloads only changed files and checks their signature before installing.
 
@@ -170,60 +169,6 @@ Made with the [Godot Engine](https://godotengine.org) (MIT). Weapon, vehicle and
 ATTRITION is free, and you are welcome to pass it on. You may share the unmodified game files for free, mirror or re-upload them, and make videos, Let's Plays and streams, monetized or not. You may not sell the game or release a modified version as your own game. All rights stay with the developer, and third-party sounds and textures keep their own licenses. Details are in the [LICENSE](LICENSE).
 
 Found a bug or have an idea? Open an [issue](https://github.com/Vyrenbusiness-source/attrition-releases/issues/new/choose); [CONTRIBUTING](CONTRIBUTING.md) explains what helps most.
-
----
-
-<a id="deutsch"></a>
-
-## Über das Spiel
-
-Du bist ein Soldat in einem Krieg, der auch ohne dich weiterläuft. Vier Fraktionen kämpfen mit hunderten KI-Soldaten, Panzern, Hubschraubern und Drohnen um eine Stadt, und jede Wand lässt sich durchschießen oder sprengen.
-
-Was du mitnimmst, kannst du verlieren. Du fasst kostenlos die Truppenausgabe oder ziehst mit Ausrüstung los, die du gekauft oder erbeutet hast. Fällst du, bleibt sie an deiner Leiche liegen, und wer zuerst da ist, nimmt sie mit. Kommst du zurück, behältst du alles und bekommst Sold für das, was du draußen geleistet hast.
-
-**Frühe Alpha – mit Fehlern ist zu rechnen, Updates kommen häufig.**
-
-## Kurz gesagt
-
-* KI-Trupps, die Deckung nehmen, Nebel werfen, Verwundete bergen und nur wissen, was sie sehen oder hören
-* Wundballistik und Sanität nach TCCC: Aderpresse, Druckverband, Chest Seal, Schiene, Morphin, Infusion
-* Händler, Spind und Kriegswirtschaft: Ausrüstung kaufen, erbeuten, verlieren
-* 56 Waffen, über 120 Aufsätze und Munitionsarten, 16 Rucksäcke, 17 Westen/Helme, Werkbank mit Vorher/Nachher-Werten
-* Zerstörbare Voxel-Welt, Wetter, Tag und Nacht
-* Match, Koop und PvP
-
-## Herunterladen und Updates
-
-1. Die [neueste Version](https://github.com/Vyrenbusiness-source/attrition-releases/releases/latest) öffnen.
-2. Alle Dateien dieser Version (`ATTRITION.exe`, `ATTRITION.pck` und die `.dll`-Dateien) in einen gemeinsamen Ordner laden.
-3. `ATTRITION.exe` starten.
-
-Danach aktualisiert sich das Spiel selbst. Alle Tasten lassen sich in den Einstellungen neu belegen.
-
-<a id="neueste-updates"></a>
-
-## Neueste Updates
-
-Wird automatisch aus den [Veröffentlichungen](https://github.com/Vyrenbusiness-source/attrition-releases/releases) erzeugt.
-
-<!-- updates:de:start -->
-| Version | Datum | Was ist neu |
-|---|---|---|
-| [**1.0.214**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.214) | 24.10.2026 | Download: ATTRITION-Windows.zip → entpacken → ATTRITION.exe starten (Updates kommen danach automatisch). Die übrigen Einzeldateien braucht nur der automatische Updater. |
-| [**1.0.213**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.213) | 24.10.2026 | Einnahmen aus dem Spiel doppelt (Abschüsse, Aufträge, Ziele …) |
-| [**1.0.212**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.212) | 24.10.2026 | Schüsse mit deutlich mehr Bass und Tiefe von der Mündung |
-| [**1.0.211**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.211) | 24.10.2026 | Respawn nach Tod im Heli: wieder laufen/schießen; keine Bodentasche mehr beim Einsatz; Abhol-Heli kommt immer (notfalls neu an der Basis) |
-| [**1.0.210**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.210) | 24.10.2026 | Koop: Server-Absturz beim Wiederverwenden von Soldatenfiguren behoben (Verbindung verloren / nach Tod festgehangen) |
-| [**1.0.209**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.209) | 24.10.2026 | Startguthaben 30.000 Sold für neue Spieler |
-| [**1.0.208**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.208) | 24.10.2026 | Koop: Mitspieler-Figuren mit doppeltem bis dreifachem Sendetakt (flüssiger) |
-| [**1.0.207**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.207) | 24.10.2026 | Koop: Folgefehler bei Abschuss durch bereits abgebauten Schützen behoben |
-<!-- updates:de:end -->
-
-## Mitwirkende und Lizenzen
-
-Gebaut mit der [Godot Engine](https://godotengine.org) (MIT). Waffen-, Fahrzeug- und Umgebungsklänge sind echte Aufnahmen: freie Aufnahmen unter CC0, CC BY oder gemeinfrei sowie gekaufte Soundpakete. Jede Quelle steht im Spiel unter *Mitwirkende & Lizenzen*.
-
-Das Spiel ist kostenlos und darf unverändert frei weitergegeben werden, auch als Mirror; Videos und Streams sind ausdrücklich erwünscht, auch monetarisiert. Verkauf und veränderte Fassungen als eigenes Spiel sind nicht erlaubt, siehe [LICENSE](LICENSE). Fehler gefunden oder eine Idee? Einfach ein [Issue](https://github.com/Vyrenbusiness-source/attrition-releases/issues/new/choose) eröffnen.
 
 ---
 
