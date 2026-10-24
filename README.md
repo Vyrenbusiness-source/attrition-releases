@@ -144,6 +144,7 @@ Updated automatically from the [releases](https://github.com/Vyrenbusiness-sourc
 <!-- updates:en:start -->
 | Version | Date | What changed |
 |---|---|---|
+| [**1.0.184**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.184) | Oct 24, 2026 | KI: schießt auf nahe Feinde zuerst zurück statt Sandsäcke zu bauen |
 | [**1.0.183**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.183) | Oct 24, 2026 | Organ-Treffer (Hirn sofort tot, Herz nach Sekunden), Westen nach Fläche/Seitenschutz, Rucksack bremst von hinten; Panzer allein fahren und schießen; Basisfahrzeuge nur gegen Kaution (Sold-Exploit) |
 | [**1.0.182**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.182) | Oct 24, 2026 | Fehlerbehebungen (Instanzpuffer voll durch KI-Körper-Shader, Physikraum-Meldungen); Hubschrauber mit Fern-Version (−75 % Dreiecke ab 300 m) |
 | [**1.0.181**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.181) | Oct 24, 2026 | Bewegung wie Tarkov: Trägheit nach Gewicht, Sprint nur vorwärts, Armausdauer, Schritttempo Alt+Mausrad |
@@ -151,7 +152,6 @@ Updated automatically from the [releases](https://github.com/Vyrenbusiness-sourc
 | [**1.0.179**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.179) | Oct 24, 2026 | Waffen beim Zielen nicht mehr fast schwarz: Himmelsspiegelung für die Ego-Waffe |
 | [**1.0.178**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.178) | Oct 24, 2026 | Leistung: NPC-Waffen mit Detailstufen, Waffenschatten nur bis 60 m (−25 % Schatten-Dreiecke) |
 | [**1.0.177**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.177) | Oct 24, 2026 | Pistolen: echtes Handschuh-Handmodell (Blender) statt Klumpen |
-| [**1.0.176**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.176) | Oct 24, 2026 | Sanität: Schiene längs am Glied statt verschoben, Aderpresse-Knebel, Leisten-Druckverband, keine Handsprünge |
 <!-- updates:en:end -->
 
 ## Credits and licenses
@@ -202,6 +202,7 @@ Wird automatisch aus den [Veröffentlichungen](https://github.com/Vyrenbusiness-
 <!-- updates:de:start -->
 | Version | Datum | Was ist neu |
 |---|---|---|
+| [**1.0.184**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.184) | 24.10.2026 | KI: schießt auf nahe Feinde zuerst zurück statt Sandsäcke zu bauen |
 | [**1.0.183**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.183) | 24.10.2026 | Organ-Treffer (Hirn sofort tot, Herz nach Sekunden), Westen nach Fläche/Seitenschutz, Rucksack bremst von hinten; Panzer allein fahren und schießen; Basisfahrzeuge nur gegen Kaution (Sold-Exploit) |
 | [**1.0.182**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.182) | 24.10.2026 | Fehlerbehebungen (Instanzpuffer voll durch KI-Körper-Shader, Physikraum-Meldungen); Hubschrauber mit Fern-Version (−75 % Dreiecke ab 300 m) |
 | [**1.0.181**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.181) | 24.10.2026 | Bewegung wie Tarkov: Trägheit nach Gewicht, Sprint nur vorwärts, Armausdauer, Schritttempo Alt+Mausrad |
@@ -209,7 +210,6 @@ Wird automatisch aus den [Veröffentlichungen](https://github.com/Vyrenbusiness-
 | [**1.0.179**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.179) | 24.10.2026 | Waffen beim Zielen nicht mehr fast schwarz: Himmelsspiegelung für die Ego-Waffe |
 | [**1.0.178**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.178) | 24.10.2026 | Leistung: NPC-Waffen mit Detailstufen, Waffenschatten nur bis 60 m (−25 % Schatten-Dreiecke) |
 | [**1.0.177**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.177) | 24.10.2026 | Pistolen: echtes Handschuh-Handmodell (Blender) statt Klumpen |
-| [**1.0.176**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.176) | 24.10.2026 | Sanität: Schiene längs am Glied statt verschoben, Aderpresse-Knebel, Leisten-Druckverband, keine Handsprünge |
 <!-- updates:de:end -->
 
 ## Mitwirkende und Lizenzen
