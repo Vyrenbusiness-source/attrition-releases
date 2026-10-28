@@ -156,6 +156,7 @@ Updated automatically from the [releases](https://github.com/Vyrenbusiness-sourc
 <!-- updates:en:start -->
 | Version | Date | What changed |
 |---|---|---|
+| [**1.0.225**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.225) | Oct 28, 2026 | Long-session stutter greatly reduced: late-game p99 frame time roughly halved and worst spikes cut from 2.3 s to 0.3 s (AI decision tables, bounded detour searches, thread race fixed, radio callback crash risk fixed). … |
 | [**1.0.224**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.224) | Oct 28, 2026 | Vehicle requests from the middle-mouse menu: a driver from the base garrison actually drives the vehicle to you (same deposit/rank rules as the normal request), then dismounts and rejoins; co-op partners see locked … |
 | [**1.0.223**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.223) | Oct 28, 2026 | AI shot clearance unified for infantry, tanks, helicopter cannon and door gunners: no more shooting through trucks, scattered rounds never hit own cover. AI medics kneel beside the wounded with hands on the wound. … |
 | [**1.0.222**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.222) | Oct 28, 2026 | HUD now scales with screen resolution (720p to 1440p) without clipped texts. Ground weapons next to a body can be picked up with F again (looking at the body still opens looting). Inserted magazine type is kept through … |
@@ -163,7 +164,6 @@ Updated automatically from the [releases](https://github.com/Vyrenbusiness-sourc
 | [**1.0.220**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.220) | Oct 28, 2026 | Healing can be interrupted by hits, weapon switch, sprint, death or being downed and always returns cleanly to the weapon; AI medics show the bandaging pose. Correct magazine models: real M249 STANAG magazine, heavy MG … |
 | [**1.0.219**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.219) | Oct 28, 2026 | AI can no longer see or shoot through vehicles, wrecks and doors; it moves to a firing position with a clear line instead. Tank crews replace a fallen gunner or driver, commanders report spotted targets, and suppressive … |
 | [**1.0.218**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.218) | Oct 28, 2026 | AI squads no longer pile up at doors: units in a doorway step back when the door gets blocked and use another entrance. Helmets on AI soldiers and co-op players now match their actual equipment. Parachute canopies no … |
-| [**1.0.217**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.217) | Oct 28, 2026 | AI now throws fragmentation grenades at known enemy positions behind cover (smoke is no longer the only choice); grenade HUD always shows the current type, count and icon, including 'none'; capture-zone markers show … |
 <!-- updates:en:end -->
 
 ## ❓ FAQ
