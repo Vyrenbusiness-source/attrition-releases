@@ -156,6 +156,7 @@ Updated automatically from the [releases](https://github.com/Vyrenbusiness-sourc
 <!-- updates:en:start -->
 | Version | Date | What changed |
 |---|---|---|
+| [**1.0.222**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.222) | Oct 28, 2026 | HUD now scales with screen resolution (720p to 1440p) without clipped texts. Ground weapons next to a body can be picked up with F again (looking at the body still opens looting). Inserted magazine type is kept through … |
 | [**1.0.221**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.221) | Oct 28, 2026 | Capture zones in war mode and on the compass now show the same clear states (neutral, capturing with percent, contested, held, enemy-held); markers stay visible at 50 m. Fixed freed-object checks in 11 scripts (missing … |
 | [**1.0.220**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.220) | Oct 28, 2026 | Healing can be interrupted by hits, weapon switch, sprint, death or being downed and always returns cleanly to the weapon; AI medics show the bandaging pose. Correct magazine models: real M249 STANAG magazine, heavy MG … |
 | [**1.0.219**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.219) | Oct 28, 2026 | AI can no longer see or shoot through vehicles, wrecks and doors; it moves to a firing position with a clear line instead. Tank crews replace a fallen gunner or driver, commanders report spotted targets, and suppressive … |
@@ -163,7 +164,6 @@ Updated automatically from the [releases](https://github.com/Vyrenbusiness-sourc
 | [**1.0.217**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.217) | Oct 28, 2026 | AI now throws fragmentation grenades at known enemy positions behind cover (smoke is no longer the only choice); grenade HUD always shows the current type, count and icon, including 'none'; capture-zone markers show … |
 | [**1.0.216**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.216) | Oct 28, 2026 | AI no longer shoots into vehicles or cover in front of its target; stuck AI squads detect and recover from stalls; machine-gun recoil is controllable in short bursts and better when crouched or supported; middle-mouse … |
 | [**1.0.215**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.215) | Oct 24, 2026 | Better sky and lighting: deeper blue sky, fuller clouds with lit edges, high cirrus layer, warmer sun haze, richer sunsets |
-| [**1.0.214**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.214) | Oct 24, 2026 | Download: ATTRITION-Windows.zip → entpacken → ATTRITION.exe starten (Updates kommen danach automatisch). Die übrigen Einzeldateien braucht nur der automatische Updater. |
 <!-- updates:en:end -->
 
 ## ❓ FAQ
