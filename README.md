@@ -156,6 +156,7 @@ Updated automatically from the [releases](https://github.com/Vyrenbusiness-sourc
 <!-- updates:en:start -->
 | Version | Date | What changed |
 |---|---|---|
+| [**1.0.229**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.229) | Oct 29, 2026 | Fix: a stale copy of the AI threat-response script was packed into 1.0.228 instead of the current one; this build uses the correct AI reaction code again (witness staging, casualty reports, shelter search speedups). |
 | [**1.0.228**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.228) | Oct 29, 2026 | Machine-gun recoil reduced: the weapon no longer tips and slides back so far, less camera kick and shake; 10-round bursts now steadier than an AK, bipod/rested almost still. MP9 and other weapons now show the real … |
 | [**1.0.227**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.227) | Oct 29, 2026 | AI room clearing works again (breach at outer walls, nobody lingers in doorways). Same seed now plays out identically under load (no object-id or wall-clock decisions). Autosave happens at invisible moments … |
 | [**1.0.226**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.226) | Oct 28, 2026 | AI squads: units no longer stand still after a new objective, half the squad always covers during bounds, unknown obstacles (fresh wrecks, rubble) are detected and bypassed within seconds, and formation moves get … |
@@ -163,7 +164,6 @@ Updated automatically from the [releases](https://github.com/Vyrenbusiness-sourc
 | [**1.0.224**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.224) | Oct 28, 2026 | Vehicle requests from the middle-mouse menu: a driver from the base garrison actually drives the vehicle to you (same deposit/rank rules as the normal request), then dismounts and rejoins; co-op partners see locked … |
 | [**1.0.223**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.223) | Oct 28, 2026 | AI shot clearance unified for infantry, tanks, helicopter cannon and door gunners: no more shooting through trucks, scattered rounds never hit own cover. AI medics kneel beside the wounded with hands on the wound. … |
 | [**1.0.222**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.222) | Oct 28, 2026 | HUD now scales with screen resolution (720p to 1440p) without clipped texts. Ground weapons next to a body can be picked up with F again (looking at the body still opens looting). Inserted magazine type is kept through … |
-| [**1.0.221**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.221) | Oct 28, 2026 | Capture zones in war mode and on the compass now show the same clear states (neutral, capturing with percent, contested, held, enemy-held); markers stay visible at 50 m. Fixed freed-object checks in 11 scripts (missing … |
 <!-- updates:en:end -->
 
 ## ❓ FAQ
