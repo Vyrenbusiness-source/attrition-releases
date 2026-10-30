@@ -156,6 +156,7 @@ Updated automatically from the [releases](https://github.com/Vyrenbusiness-sourc
 <!-- updates:en:start -->
 | Version | Date | What changed |
 |---|---|---|
+| [**1.0.232**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.232) | Oct 30, 2026 | Round sights and scopes in first person, corrected weapon holding (AI pistols, tripod weapons), new anti-aliasing / render scale / sharpness settings, weapon lighting follows sun/shade/indoors, unified AgX tonemapping … |
 | [**1.0.231**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.231) | Oct 30, 2026 | Brake and door sounds, covered movement routes for AI squads, shadow flicker fix, tree bark and spruce shapes, co-op fixes, war simulation improvements, fire-base positions. |
 | [**1.0.230**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.230) | Oct 29, 2026 | Visible muzzle flash for AI, co-op partners, vehicle and helicopter weapons (sized by caliber; tank sight stays clear). AI attack strength restored after fire discipline: only weapons in range give covering fire … |
 | [**1.0.229**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.229) | Oct 29, 2026 | Fix: a stale copy of the AI threat-response script was packed into 1.0.228 instead of the current one; this build uses the correct AI reaction code again (witness staging, casualty reports, shelter search speedups). |
@@ -163,7 +164,6 @@ Updated automatically from the [releases](https://github.com/Vyrenbusiness-sourc
 | [**1.0.227**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.227) | Oct 29, 2026 | AI room clearing works again (breach at outer walls, nobody lingers in doorways). Same seed now plays out identically under load (no object-id or wall-clock decisions). Autosave happens at invisible moments … |
 | [**1.0.226**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.226) | Oct 28, 2026 | AI squads: units no longer stand still after a new objective, half the squad always covers during bounds, unknown obstacles (fresh wrecks, rubble) are detected and bypassed within seconds, and formation moves get … |
 | [**1.0.225**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.225) | Oct 28, 2026 | Long-session stutter greatly reduced: late-game p99 frame time roughly halved and worst spikes cut from 2.3 s to 0.3 s (AI decision tables, bounded detour searches, thread race fixed, radio callback crash risk fixed). … |
-| [**1.0.224**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.224) | Oct 28, 2026 | Vehicle requests from the middle-mouse menu: a driver from the base garrison actually drives the vehicle to you (same deposit/rank rules as the normal request), then dismounts and rejoins; co-op partners see locked … |
 <!-- updates:en:end -->
 
 ## ❓ FAQ
