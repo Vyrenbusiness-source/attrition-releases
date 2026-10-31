@@ -156,6 +156,7 @@ Updated automatically from the [releases](https://github.com/Vyrenbusiness-sourc
 <!-- updates:en:start -->
 | Version | Date | What changed |
 |---|---|---|
+| [**1.0.236**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.236) | Oct 31, 2026 | Graphics: MSAA 8x and MSAA 16x (8x MSAA + 2x supersampling, for strong GPUs) are now selectable under anti-aliasing. |
 | [**1.0.235**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.235) | Oct 31, 2026 | Big AI update: squads hold sectors and split fire on multiple threats, fire base keeps suppressing while others flank, counterattacks and ambushes fire together, defenders hold zones in depth, ammo sharing and casualty … |
 | [**1.0.234**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.234) | Oct 30, 2026 | AI: squads shift fire, bound by fire and movement in open terrain, flank up to the rear, better cover scoring, weapon choice (pistol, anti-tank rules), proper door handling and structured radio reports … |
 | [**1.0.233**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.233) | Oct 30, 2026 | Photo-real 128 px block and ground textures (no more pixel look), TAA with custom sharpening on High/Ultra (much less shimmer, thin wires stay visible), rounder sights with correct ACOG/PU/1P63 reticles, AI can go prone … |
@@ -163,7 +164,6 @@ Updated automatically from the [releases](https://github.com/Vyrenbusiness-sourc
 | [**1.0.231**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.231) | Oct 30, 2026 | Brake and door sounds, covered movement routes for AI squads, shadow flicker fix, tree bark and spruce shapes, co-op fixes, war simulation improvements, fire-base positions. |
 | [**1.0.230**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.230) | Oct 29, 2026 | Visible muzzle flash for AI, co-op partners, vehicle and helicopter weapons (sized by caliber; tank sight stays clear). AI attack strength restored after fire discipline: only weapons in range give covering fire … |
 | [**1.0.229**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.229) | Oct 29, 2026 | Fix: a stale copy of the AI threat-response script was packed into 1.0.228 instead of the current one; this build uses the correct AI reaction code again (witness staging, casualty reports, shelter search speedups). |
-| [**1.0.228**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.228) | Oct 29, 2026 | Machine-gun recoil reduced: the weapon no longer tips and slides back so far, less camera kick and shake; 10-round bursts now steadier than an AK, bipod/rested almost still. MP9 and other weapons now show the real … |
 <!-- updates:en:end -->
 
 ## ❓ FAQ
