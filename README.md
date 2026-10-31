@@ -156,6 +156,7 @@ Updated automatically from the [releases](https://github.com/Vyrenbusiness-sourc
 <!-- updates:en:start -->
 | Version | Date | What changed |
 |---|---|---|
+| [**1.0.242**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.242) | Oct 31, 2026 | Sound: own and nearby shots louder, brighter and cleaner - removed the odd slapback and double compression, less bass pumping of the limiter; distant gunfire unchanged. |
 | [**1.0.241**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.241) | Oct 31, 2026 | Sound: nearby enemy and allied gunfire now also hits hard (punch compressor and short low-end hit), not just your own weapon. |
 | [**1.0.240**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.240) | Oct 31, 2026 | Sound: much more punch on your own weapon - punch compressor, short low-end hit you can feel, and slapback outdoors. Near-miss bullet cracks now briefly duck the rest of the battle (tunnel vision). |
 | [**1.0.239**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.239) | Oct 31, 2026 | AI fix: zone defenders stay inside their perimeter - cover search on a short leash, individual fallback into the depth of the zone instead of running out through the enemy approach, no rescue drags or ambush charges out … |
@@ -163,7 +164,6 @@ Updated automatically from the [releases](https://github.com/Vyrenbusiness-sourc
 | [**1.0.237**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.237) | Oct 31, 2026 | AI fix: soldiers rescuing a wounded comrade no longer get stuck on wall edges - casualty care starts quickly again; units already in cover hold position instead of shuffling. Building assault entry speed restored. |
 | [**1.0.236**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.236) | Oct 31, 2026 | Graphics: MSAA 8x and MSAA 16x (8x MSAA + 2x supersampling, for strong GPUs) are now selectable under anti-aliasing. |
 | [**1.0.235**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.235) | Oct 31, 2026 | Big AI update: squads hold sectors and split fire on multiple threats, fire base keeps suppressing while others flank, counterattacks and ambushes fire together, defenders hold zones in depth, ammo sharing and casualty … |
-| [**1.0.234**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.234) | Oct 30, 2026 | AI: squads shift fire, bound by fire and movement in open terrain, flank up to the rear, better cover scoring, weapon choice (pistol, anti-tank rules), proper door handling and structured radio reports … |
 <!-- updates:en:end -->
 
 ## ❓ FAQ
