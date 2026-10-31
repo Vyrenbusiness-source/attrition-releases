@@ -156,6 +156,7 @@ Updated automatically from the [releases](https://github.com/Vyrenbusiness-sourc
 <!-- updates:en:start -->
 | Version | Date | What changed |
 |---|---|---|
+| [**1.0.239**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.239) | Oct 31, 2026 | AI fix: zone defenders stay inside their perimeter - cover search on a short leash, individual fallback into the depth of the zone instead of running out through the enemy approach, no rescue drags or ambush charges out … |
 | [**1.0.238**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.238) | Oct 31, 2026 | AI fix: squads that capture a zone now stay and hold it instead of chasing out on searches; rear security moves up to the zone. No more evasive counterattack plans when attacking or defending an objective. |
 | [**1.0.237**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.237) | Oct 31, 2026 | AI fix: soldiers rescuing a wounded comrade no longer get stuck on wall edges - casualty care starts quickly again; units already in cover hold position instead of shuffling. Building assault entry speed restored. |
 | [**1.0.236**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.236) | Oct 31, 2026 | Graphics: MSAA 8x and MSAA 16x (8x MSAA + 2x supersampling, for strong GPUs) are now selectable under anti-aliasing. |
@@ -163,7 +164,6 @@ Updated automatically from the [releases](https://github.com/Vyrenbusiness-sourc
 | [**1.0.234**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.234) | Oct 30, 2026 | AI: squads shift fire, bound by fire and movement in open terrain, flank up to the rear, better cover scoring, weapon choice (pistol, anti-tank rules), proper door handling and structured radio reports … |
 | [**1.0.233**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.233) | Oct 30, 2026 | Photo-real 128 px block and ground textures (no more pixel look), TAA with custom sharpening on High/Ultra (much less shimmer, thin wires stay visible), rounder sights with correct ACOG/PU/1P63 reticles, AI can go prone … |
 | [**1.0.232**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.232) | Oct 30, 2026 | Round sights and scopes in first person, corrected weapon holding (AI pistols, tripod weapons), new anti-aliasing / render scale / sharpness settings, weapon lighting follows sun/shade/indoors, unified AgX tonemapping … |
-| [**1.0.231**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.231) | Oct 30, 2026 | Brake and door sounds, covered movement routes for AI squads, shadow flicker fix, tree bark and spruce shapes, co-op fixes, war simulation improvements, fire-base positions. |
 <!-- updates:en:end -->
 
 ## ❓ FAQ
