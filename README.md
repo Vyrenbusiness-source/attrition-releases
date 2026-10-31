@@ -156,6 +156,7 @@ Updated automatically from the [releases](https://github.com/Vyrenbusiness-sourc
 <!-- updates:en:start -->
 | Version | Date | What changed |
 |---|---|---|
+| [**1.0.246**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.246) | Oct 31, 2026 | AI fix: marching squads no longer get held up by evasive moves or chase distant gunfire - they head to their objectives faster. |
 | [**1.0.245**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.245) | Oct 31, 2026 | AI fix: squads no longer stand around in a clump at the start of a match - vehicles of units leaving together get their own free spot instead of blocking each other, and a stuck convoy dismounts after 15 s and continues … |
 | [**1.0.244**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.244) | Oct 31, 2026 | Sound: own shot a bit louder; distant gunfire clearer and crisper (less low rumble, more presence). |
 | [**1.0.243**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.243) | Oct 31, 2026 | Sound: your own shot now sits right at your ear (no distant reverb), more body instead of fake bass, louder weapon mechanics and a wider stereo bang. |
@@ -163,7 +164,6 @@ Updated automatically from the [releases](https://github.com/Vyrenbusiness-sourc
 | [**1.0.241**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.241) | Oct 31, 2026 | Sound: nearby enemy and allied gunfire now also hits hard (punch compressor and short low-end hit), not just your own weapon. |
 | [**1.0.240**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.240) | Oct 31, 2026 | Sound: much more punch on your own weapon - punch compressor, short low-end hit you can feel, and slapback outdoors. Near-miss bullet cracks now briefly duck the rest of the battle (tunnel vision). |
 | [**1.0.239**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.239) | Oct 31, 2026 | AI fix: zone defenders stay inside their perimeter - cover search on a short leash, individual fallback into the depth of the zone instead of running out through the enemy approach, no rescue drags or ambush charges out … |
-| [**1.0.238**](https://github.com/Vyrenbusiness-source/attrition-releases/releases/tag/v1.0.238) | Oct 31, 2026 | AI fix: squads that capture a zone now stay and hold it instead of chasing out on searches; rear security moves up to the zone. No more evasive counterattack plans when attacking or defending an objective. |
 <!-- updates:en:end -->
 
 ## ❓ FAQ
